@@ -1,0 +1,26 @@
+Color verification in Slide 3 MoM delta cells:
+
+Table with 18 rows and 5 columns:
+
+Row 0: 'Metric' | ∆: 'MoM ∆' | Color: RGB(255, 255, 255)
+Row 1: 'Productivity & Capacity' | ∆: '' | Color: Default color
+Row 2: 'Sprint Predictability' | ∆: '↑18.6%' | Color: RGB(0, 128, 0) (Green - Good change)
+Row 3: 'Cycle Time (days)' | ∆: '↑0.09 days' | Color: RGB(255, 0, 0) (Red - Bad change)
+Row 4: 'Unplanned Work %' | ∆: '↑11.0%' | Color: RGB(255, 0, 0) (Red - Bad change)
+Row 5: 'Wasted Effort %' | ∆: '0%' | Color: Default color
+Row 6: 'Reliability' | ∆: '' | Color: Default color
+Row 7: 'Sev 1/2/3 Incidents' | ∆: 'N/A' | Color: Default color
+Row 8: 'MTTR (Sev 1)' | ∆: 'N/A' | Color: Default color
+Row 9: 'Quality' | ∆: '' | Color: Default color
+Row 10: 'Dispositioned PDR Bugs1' | ∆: 'Assigned: 0
+Resolved: ↑1' | Color: Default color
+Row 11: 'Change Failure Rate2' | ∆: 'N/A' | Color: Default color
+Row 12: 'Code Coverage %' | ∆: 'N/A' | Color: Default color
+Row 13: 'Delivery & Commitments' | ∆: '' | Color: Default color
+Row 14: 'Commitment %' | ∆: '↑55.6%' | Color: RGB(0, 128, 0) (Green - Good change)
+Row 15: 'Investment Allocations' | ∆: 'R: 
+T: 
+M:
+O:' | Color: Default color
+Row 16: 'Deployment Frequency2' | ∆: '' | Color: Default color
+Row 17: 'Lead Time for Changes2' | ∆: '' | Color: Default color

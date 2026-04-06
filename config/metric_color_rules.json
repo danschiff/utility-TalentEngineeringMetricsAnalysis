@@ -1,0 +1,80 @@
+{
+  "metric_color_rules": {
+    "Sprint Predictability": {
+      "positive_is_good": true,
+      "description": "Higher predictability is better"
+    },
+    "Cycle Time (Days)": {
+      "positive_is_good": false,
+      "description": "Lower cycle time is better"
+    },
+    "Unplanned work %": {
+      "positive_is_good": false,
+      "description": "Lower unplanned work is better"
+    },
+    "Wasted Effort %": {
+      "positive_is_good": false,
+      "description": "Lower wasted effort is better"
+    },
+    "Severity 1 Incidents": {
+      "positive_is_good": false,
+      "description": "Fewer incidents is better"
+    },
+    "Severity 2 Incidents": {
+      "positive_is_good": false,
+      "description": "Fewer incidents is better"
+    },
+    "Severity 3 Incidents": {
+      "positive_is_good": false,
+      "description": "Fewer incidents is better"
+    },
+    "MTTR (Sev 1)": {
+      "positive_is_good": false,
+      "description": "Lower MTTR is better"
+    },
+    "Dispositioned PDR Bugs - Created": {
+      "positive_is_good": false,
+      "description": "Fewer new bugs is better"
+    },
+    "Dispositioned PDR Bugs - Resolved": {
+      "positive_is_good": true,
+      "description": "More resolved bugs is better"
+    },
+    "Change Failure Rate": {
+      "positive_is_good": false,
+      "description": "Lower failure rate is better"
+    },
+    "Code Coverage %": {
+      "positive_is_good": true,
+      "description": "Higher code coverage is better"
+    },
+    "Commitment %": {
+      "positive_is_good": true,
+      "description": "Higher commitment is better"
+    },
+    "Investment Allocations - R": {
+      "positive_is_good": true,
+      "description": "Higher allocation is better"
+    },
+    "Investment Allocations - T": {
+      "positive_is_good": true,
+      "description": "Higher allocation is better"
+    },
+    "Investment Allocations - M": {
+      "positive_is_good": true,
+      "description": "Higher allocation is better"
+    },
+    "Investment Allocations - 0": {
+      "positive_is_good": true,
+      "description": "Higher allocation is better"
+    },
+    "Deployment Frequency": {
+      "positive_is_good": true,
+      "description": "Higher deployment frequency is better"
+    },
+    "Lead Time for Changes": {
+      "positive_is_good": false,
+      "description": "Lower lead time is better"
+    }
+  }
+}

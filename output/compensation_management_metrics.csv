@@ -1,0 +1,25 @@
+Metric,February,March,MoM Delta
+"Sprint Predictability",75.3%,93.9%,↑18.6%
+"Cycle Time (Days)",2.89 days,2.98 days,↑0.09 days
+"Unplanned work %",5.0%,16.0%,↑11.0%
+"Wasted Effort %",0%,0%,0%
+"Severity 1 Incidents",0,0,0
+"Severity 2 Incidents",0,0,0
+"Severity 3 Incidents",0,0,0
+"MTTR (Sev 1)",N/A,N/A,N/A
+"Dispositioned PDR Bugs - Created",7,7,0
+"Dispositioned PDR Bugs - Resolved",6,7,↑1
+"Change Failure Rate",N/A,N/A,N/A
+"Code Coverage %",N/A,N/A,N/A
+"Commitment %",44.4%,100%,↑55.6%
+"Investment Allocations - R",68.0%,61.0%,↓7.0%
+"Investment Allocations - T",1.0%,0%,↓1.0%
+"Investment Allocations - M",19.0%,37.0%,↑18.0%
+"Investment Allocations - 0",12.0%,2.0%,↓10.0%
+"Deployment Frequency",N/A,N/A,N/A
+"Lead Time for Changes",N/A,N/A,N/A
+"Sev 1/2/3 Incidents",0/0/0,0/0/0,N/A
+"Dispositioned PDR Bugs",Assigned: 7
+Resolved: 6,Assigned: 7
+Resolved: 7,Assigned: 0
+Resolved: ↑1

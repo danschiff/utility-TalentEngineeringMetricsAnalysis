@@ -1,0 +1,29 @@
+Column Name,Type,Data Type,Description
+team,Metadata,string,Original team from source file
+metric_group,Metadata,string,Original metric_group from source file
+metric,Metadata,string,Original metric from source file
+source,Metadata,string,Original source from source file
+metric_unit,Standard,string,"Standardized metric unit: %, time, count"
+metric_direction,Standard,string,"Direction of improvement: higher_better, lower_better, context_dependent"
+benchmark_min,Benchmark,float/string,Parsed benchmark min from industry standards
+benchmark_max,Benchmark,float/string,Parsed benchmark max from industry standards
+benchmark_mid,Benchmark,float/string,Parsed benchmark mid from industry standards
+benchmark_unit,Benchmark,float/string,Parsed benchmark unit from industry standards
+July_value,Data,float,Parsed numeric value for July
+July_flag,Quality Flag,string,"Data quality flag: VALID, NA, X_MARKER, NARRATIVE, UNCERTAIN"
+August_value,Data,float,Parsed numeric value for August
+August_flag,Quality Flag,string,"Data quality flag: VALID, NA, X_MARKER, NARRATIVE, UNCERTAIN"
+September_value,Data,float,Parsed numeric value for September
+September_flag,Quality Flag,string,"Data quality flag: VALID, NA, X_MARKER, NARRATIVE, UNCERTAIN"
+October_value,Data,float,Parsed numeric value for October
+October_flag,Quality Flag,string,"Data quality flag: VALID, NA, X_MARKER, NARRATIVE, UNCERTAIN"
+November_value,Data,float,Parsed numeric value for November
+November_flag,Quality Flag,string,"Data quality flag: VALID, NA, X_MARKER, NARRATIVE, UNCERTAIN"
+December_value,Data,float,Parsed numeric value for December
+December_flag,Quality Flag,string,"Data quality flag: VALID, NA, X_MARKER, NARRATIVE, UNCERTAIN"
+January_value,Data,float,Parsed numeric value for January
+January_flag,Quality Flag,string,"Data quality flag: VALID, NA, X_MARKER, NARRATIVE, UNCERTAIN"
+February_value,Data,float,Parsed numeric value for February
+February_flag,Quality Flag,string,"Data quality flag: VALID, NA, X_MARKER, NARRATIVE, UNCERTAIN"
+March_value,Data,float,Parsed numeric value for March
+March_flag,Quality Flag,string,"Data quality flag: VALID, NA, X_MARKER, NARRATIVE, UNCERTAIN"

@@ -1,0 +1,32 @@
+Row 0: "Metric" | "February" | "March" | "MoM ∆" | "Industry Avg"
+Row 1: "Productivity & Capacity" | "" | "" | "" | ""
+Row 2: "Sprint Predictability" | "75%" | "" | "" | "80 – 85%"
+Row 3: "Cycle Time (days)" | "2.89 days" | "" | "" | "5 – 8 days"
+Row 4: "Unplanned Work %" | "5%" | "" | "" | "30 – 40%"
+Row 5: "Wasted Effort %" | "" | "" | "" | "5 – 12%"
+Row 6: "Reliability" | "" | "" | "" | ""
+Row 7: "Sev 1/2/3 Incidents" | "0/0/0" | "" | "" | "0 – 1 / 1 – 3 / 5 – 10"
+Row 8: "MTTR (Sev 1)" | "N/A" | "" | "" | "6 – 12 hours"
+Row 9: "Quality" | "" | "" | "" | ""
+Row 10: "Dispositioned PDR Bugs1" | "Assigned: 7
+Resolved: 6" | "Assigned: 
+Resolved:" | "Assigned:  
+Resolved:" | "10 – 25 / month"
+Row 11: "Change Failure Rate2" | "" | "" | "" | "20 – 30%"
+Row 12: "Code Coverage %" | "" | "" | "" | "60 – 75%"
+Row 13: "Delivery & Commitments" | "" | "" | "" | ""
+Row 14: "Commitment %" | "44.4%" | "" | "" | "80 – 90%"
+Row 15: "Investment Allocations" | "R: 68%
+T: 1%
+M: 19%
+O: 0%" | "R: 
+T: 
+M: 
+O:" | "R: 
+T: 
+M:
+O:" | "R: 40 - 55%
+T: 5 - 15%
+M: 30 - 40%"
+Row 16: "Deployment Frequency2" | "" | "" | "" | "1 – 2x week"
+Row 17: "Lead Time for Changes2" | "" | "" | "" | "1 – 3 days"

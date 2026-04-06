@@ -1,0 +1,22 @@
+Updated font sizes in Slide 3 (should be 9pt for data cells):
+
+Table with 18 rows and 5 columns:
+
+Row 0 ('Metric') - Data cells: Cell 1: 10.0 | Cell 2: 10.0 | Cell 3: 10.0
+Row 1 ('Productivity & Capacity') - Data cells: Cell 1: Default | Cell 2: Default | Cell 3: Default
+Row 2 ('Sprint Predictability') - Data cells: Cell 1: 9.0 | Cell 2: 9.0 | Cell 3: 9.0
+Row 3 ('Cycle Time (days)') - Data cells: Cell 1: 9.0 | Cell 2: 9.0 | Cell 3: 9.0
+Row 4 ('Unplanned Work %') - Data cells: Cell 1: 9.0 | Cell 2: 9.0 | Cell 3: 9.0
+Row 5 ('Wasted Effort %') - Data cells: Cell 1: 9.0 | Cell 2: 9.0 | Cell 3: 9.0
+Row 6 ('Reliability') - Data cells: Cell 1: Default | Cell 2: Default | Cell 3: Default
+Row 7 ('Sev 1/2/3 Incidents') - Data cells: Cell 1: 9.0 | Cell 2: 9.0 | Cell 3: 9.0
+Row 8 ('MTTR (Sev 1)') - Data cells: Cell 1: 9.0 | Cell 2: 9.0 | Cell 3: 9.0
+Row 9 ('Quality') - Data cells: Cell 1: Default | Cell 2: Default | Cell 3: Default
+Row 10 ('Dispositioned PDR Bugs1') - Data cells: Cell 1: 9.0 | Cell 2: 9.0 | Cell 3: 9.0
+Row 11 ('Change Failure Rate2') - Data cells: Cell 1: 9.0 | Cell 2: 9.0 | Cell 3: 9.0
+Row 12 ('Code Coverage %') - Data cells: Cell 1: 9.0 | Cell 2: 9.0 | Cell 3: 9.0
+Row 13 ('Delivery & Commitments') - Data cells: Cell 1: Default | Cell 2: Default | Cell 3: Default
+Row 14 ('Commitment %') - Data cells: Cell 1: 9.0 | Cell 2: 9.0 | Cell 3: 9.0
+Row 15 ('Investment Allocations') - Data cells: Cell 1: Default | Cell 2: Default | Cell 3: Default
+Row 16 ('Deployment Frequency2') - Data cells: Cell 1: Default | Cell 2: Default | Cell 3: 10.0
+Row 17 ('Lead Time for Changes2') - Data cells: Cell 1: Default | Cell 2: Default | Cell 3: 10.0

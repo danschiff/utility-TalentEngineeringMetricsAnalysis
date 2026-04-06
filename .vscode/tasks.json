@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Analyzer",
+			"type": "shell",
+			"command": "c:/Code/Paylocity/utility-TalentEngineeringMetricsAnalysis/.venv/Scripts/python.exe src/analyzer.py",
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Run Tests",
+			"type": "shell",
+			"command": "c:/Code/Paylocity/utility-TalentEngineeringMetricsAnalysis/.venv/Scripts/python.exe -m pytest tests/",
+			"problemMatcher": [],
+			"group": "test"
+		}
+	]
+}

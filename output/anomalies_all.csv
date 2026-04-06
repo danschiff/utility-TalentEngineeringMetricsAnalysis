@@ -1,0 +1,437 @@
+type,metric,team,month,value,mean,severity,confidence,prev_value,severity_score
+Statistical Outlier,Severity 1 Incidents,Onboarding,November,1.0,0.1111111111111111,2.8284271247461903,Medium,,8.039696961966998
+Statistical Outlier,Severity 3 Incidents,Onboarding,August,1.0,0.1111111111111111,2.8284271247461903,Medium,,8.039696961966998
+Statistical Outlier,Dispositioned PDR Bugs - Created,Onboarding,July,23.0,8.777777777777779,2.172927479888141,Medium,,6.663147707765095
+Statistical Outlier,PR Review Velocity - X / Wk ,Onboarding,March,51.0,32.888888888888886,2.0321093594748794,Medium,,6.367429654897245
+Statistical Outlier,PR Review Velocity - X / FTE Wk,Onboarding,March,5.26,3.5699999999999994,2.032884792303326,Medium,,6.369058063836984
+Statistical Outlier,Cycle Time (Days) ,Recruiting Modernization,September,26.31,7.322857142857144,2.416956332096384,Medium,,7.175608297402405
+Statistical Outlier,Dispositioned PDR Bugs - Resolved,Recruiting Modernization,July,14.0,6.5,2.23606797749979,Medium,,6.7957427527495575
+Statistical Outlier,Commitment %,Recruiting Modernization,September,66.7,14.55,2.29712279919267,Medium,,6.9239578783046065
+Statistical Outlier,Investment Allocations - 0,Recruiting Modernization,August,6.0,0.75,2.6457513110645903,Medium,,7.656077753235638
+Statistical Outlier,PRS Merged -  X/FTE Wk,Recruiting Modernization,February,3.67,2.015714285714286,2.1233306755200725,Medium,,6.558994418592151
+Statistical Outlier,PR Comments - X/FTE Wk,Recruiting Modernization,October,5.48,2.265714285714286,2.3618432213859926,Medium,,7.059870764910583
+Statistical Outlier,Dispositioned PDR Bugs - Created,Recruiting Innovation,July,18.0,4.375,2.2713262961815013,Medium,,6.869785221981152
+Statistical Outlier,Dispositioned PDR Bugs - Resolved,Recruiting Innovation,July,14.0,3.5,2.424871130596428,Medium,,7.192229374252498
+Statistical Outlier,Investment Allocations - 0,Recruiting Innovation,September,1.0,0.125,2.6457513110645903,Medium,,7.656077753235638
+Statistical Outlier,Sprint Predictability ,Learning Management,October,0.807,0.6743333333333333,2.0080021150432654,Medium,,6.316804441590857
+Statistical Outlier,Cycle Time (Days) ,Learning Management,January,6.96,5.278333333333334,2.096829639263747,Medium,,6.503342242453868
+Statistical Outlier,Dispositioned PDR Bugs - Resolved,Learning Management,October,0.0,2.3333333333333335,2.02072594216369,Medium,,6.343524478543747
+Statistical Outlier,Investment Allocations - M,Learning Management,November,7.0,2.3333333333333335,2.110579412044345,Medium,,6.532216765293123
+Statistical Outlier,PR Review Velocity - X / FTE Wk,Employee Voice,September,11.09,3.91125,2.437558904793004,Medium,,7.218873700065307
+Statistical Outlier,PRS Merged -  X/FTE Wk,Employee Voice,September,11.31,4.00875,2.45376701201877,Medium,,7.252910725239416
+Statistical Outlier,PR Comments - X/FTE Wk,Employee Voice,September,10.76,3.64375,2.581411872298605,Medium,,7.520964931827069
+Statistical Outlier,Severity 3 Incidents,Performance Management,February,1.0,0.125,2.6457513110645903,Medium,,7.656077753235638
+Statistical Outlier,Commitment %,Performance Management,December,100.0,12.5,2.6457513110645903,Medium,,7.656077753235638
+Statistical Outlier,Investment Allocations - T,Performance Management,August,10.0,4.0,2.155263624321299,Medium,,6.626053611074727
+Statistical Outlier,PR Review Velocity - X / FTE Wk,Performance Management,February,3.43,1.665,2.438545553033806,Medium,,7.220945661370991
+Statistical Outlier,PRS Merged -  X/FTE Wk,Performance Management,February,3.04,1.6212499999999999,2.0349817296946617,Medium,,6.373461632358788
+Statistical Outlier,PR Comments - X/Wk,Performance Management,February,11.0,4.4375,2.2555883531006464,Medium,,6.836735541511357
+Statistical Outlier,PR Comments - X/FTE Wk,Performance Management,February,2.28,0.9575,2.2763903124181155,Medium,,6.8804196560780415
+Statistical Outlier,Severity 3 Incidents,Compensation Management,October,1.0,0.125,2.6457513110645903,Medium,,7.656077753235638
+Statistical Outlier,Dispositioned PDR Bugs - Resolved,Compensation Management,July,9.0,3.25,2.0409199716570616,Medium,,6.3859319404798285
+Statistical Outlier,Investment Allocations - R,Compensation Management,July,0.39,0.72375,2.0444919245503153,Medium,,6.393433041555661
+Statistical Outlier,Investment Allocations - T,Compensation Management,August,0.17,0.0325,2.5235730725761796,Medium,,7.399503452409975
+Statistical Outlier,Investment Allocations - M,Compensation Management,July,0.57,0.20875,2.3180906713943497,Medium,,6.967990409928133
+Statistical Outlier,Investment Allocations - 0,Compensation Management,November,0.16,0.035,2.0344711469278987,Medium,,6.372389408548586
+Statistical Outlier,PR Review Velocity - X / Wk ,Compensation Management,January,19.0,13.125,2.0319871954854496,Medium,,6.367173110519443
+Sudden Change,Sprint Predictability ,Recognition & Rewards,September → October,69.4,,0.7306733167082295,Medium,40.1,2.4229426433915213
+Sudden Change,Sprint Predictability ,Recognition & Rewards,November → December,61.3,,0.7514285714285713,Medium,35.0,2.4519999999999995
+Sudden Change,Unplanned work %,Recognition & Rewards,July → August,11.0,,1.2,High,5.0,4.4
+Sudden Change,Unplanned work %,Recognition & Rewards,December → January,31.0,,0.8235294117647058,Medium,17.0,2.552941176470588
+Sudden Change,Dispositioned PDR Bugs - Created,Recognition & Rewards,August → September,0.0,,1.0,Medium,4.0,2.8
+Sudden Change,Dispositioned PDR Bugs - Created,Recognition & Rewards,November → December,1.0,,0.8333333333333334,Medium,6.0,2.566666666666667
+Sudden Change,Dispositioned PDR Bugs - Created,Recognition & Rewards,December → January,0.0,,1.0,Medium,1.0,2.8
+Sudden Change,Dispositioned PDR Bugs - Resolved,Recognition & Rewards,November → December,0.0,,1.0,Medium,2.0,2.8
+Sudden Change,Commitment %,Recognition & Rewards,August → September,100.0,,1.0,Medium,50.0,2.8
+Sudden Change,Commitment %,Recognition & Rewards,September → October,20.0,,0.8,Medium,100.0,2.52
+Sudden Change,Commitment %,Recognition & Rewards,October → November,40.0,,1.0,Medium,20.0,2.8
+Sudden Change,Commitment %,Recognition & Rewards,November → December,100.0,,1.5,High,40.0,5.0
+Sudden Change,Commitment %,Recognition & Rewards,December → January,0.0,,1.0,Medium,100.0,2.8
+Sudden Change,Commitment %,Recognition & Rewards,February → March,100.0,,3.0,High,25.0,8.0
+Sudden Change,Investment Allocations - R,Recognition & Rewards,December → January,28.0,,0.5625,Medium,64.0,2.1875
+Sudden Change,Investment Allocations - T,Recognition & Rewards,September → October,1.0,,0.875,Medium,8.0,2.625
+Sudden Change,Investment Allocations - T,Recognition & Rewards,October → November,16.0,,15.0,High,1.0,32.0
+Sudden Change,Investment Allocations - T,Recognition & Rewards,November → December,4.0,,0.75,Medium,16.0,2.4499999999999997
+Sudden Change,Investment Allocations - M,Recognition & Rewards,July → August,34.0,,1.8333333333333333,High,12.0,5.666666666666666
+Sudden Change,Investment Allocations - M,Recognition & Rewards,December → January,68.0,,1.125,High,32.0,4.25
+Sudden Change,PR Review Velocity - X / Wk ,Recognition & Rewards,December → January,7.0,,0.5625,Medium,16.0,2.1875
+Sudden Change,PR Review Velocity - X / Wk ,Recognition & Rewards,February → March,13.0,,1.1666666666666667,High,6.0,4.333333333333334
+Sudden Change,PR Review Velocity - X / FTE Wk,Recognition & Rewards,February → March,2.19,,0.7109374999999999,Medium,1.28,2.3953124999999997
+Sudden Change,PRS Merged - X/Wk,Recognition & Rewards,December → January,6.0,,0.625,Medium,16.0,2.275
+Sudden Change,PRS Merged - X/Wk,Recognition & Rewards,February → March,12.0,,1.0,Medium,6.0,2.8
+Sudden Change,PRS Merged -  X/FTE Wk,Recognition & Rewards,December → January,1.06,,0.5069767441860464,Medium,2.15,2.109767441860465
+Sudden Change,PR Comments - X/Wk,Recognition & Rewards,July → August,55.0,,0.7741935483870968,Medium,31.0,2.4838709677419355
+Sudden Change,PR Comments - X/Wk,Recognition & Rewards,September → October,71.5,,0.5212765957446809,Medium,47.0,2.129787234042553
+Sudden Change,PR Comments - X/Wk,Recognition & Rewards,December → January,23.0,,0.5700934579439252,Medium,53.5,2.198130841121495
+Sudden Change,PR Comments - X/Wk,Recognition & Rewards,January → February,40.0,,0.7391304347826086,Medium,23.0,2.434782608695652
+Sudden Change,PR Comments - X/Wk,Recognition & Rewards,February → March,77.0,,0.925,Medium,40.0,2.695
+Sudden Change,PR Comments - X/FTE Wk,Recognition & Rewards,July → August,11.97,,0.630790190735695,Medium,7.34,2.283106267029973
+Sudden Change,PR Comments - X/FTE Wk,Recognition & Rewards,September → October,15.71,,1.191073919107392,High,7.17,4.3821478382147845
+Sudden Change,PR Comments - X/FTE Wk,Recognition & Rewards,December → January,2.89,,0.6639534883720929,Medium,8.6,2.3295348837209295
+Sudden Change,PR Comments - X/FTE Wk,Recognition & Rewards,January → February,6.77,,1.3425605536332177,High,2.89,4.685121107266435
+Sudden Change,PR Comments - X/FTE Wk,Recognition & Rewards,February → March,13.15,,0.9423929098966028,Medium,6.77,2.7193500738552436
+Sudden Change,Cycle Time (Days) ,Onboarding,July → August,6.48,,0.6615384615384616,Medium,3.9,2.3261538461538462
+Sudden Change,Cycle Time (Days) ,Onboarding,October → November,8.0,,0.5209125475285171,Medium,5.26,2.129277566539924
+Sudden Change,Unplanned work %,Onboarding,October → November,20.0,,1.2222222222222223,High,9.0,4.444444444444445
+Sudden Change,Unplanned work %,Onboarding,November → December,9.0,,0.55,Medium,20.0,2.17
+Sudden Change,Unplanned work %,Onboarding,January → February,3.0,,0.5714285714285714,Medium,7.0,2.1999999999999997
+Sudden Change,Unplanned work %,Onboarding,February → March,22.0,,6.333333333333333,High,3.0,14.666666666666666
+Sudden Change,Severity 1 Incidents,Onboarding,November → December,0.0,,1.0,Medium,1.0,2.8
+Sudden Change,Severity 3 Incidents,Onboarding,August → September,0.0,,1.0,Medium,1.0,2.8
+Sudden Change,Dispositioned PDR Bugs - Created,Onboarding,October → November,4.0,,0.5555555555555556,Medium,9.0,2.1777777777777776
+Sudden Change,Dispositioned PDR Bugs - Created,Onboarding,January → February,9.0,,1.25,High,4.0,4.5
+Sudden Change,Dispositioned PDR Bugs - Created,Onboarding,February → March,1.0,,0.8888888888888888,Medium,9.0,2.6444444444444444
+Sudden Change,Commitment %,Onboarding,August → September,85.7,,4.131736526946108,High,16.7,10.263473053892216
+Sudden Change,Commitment %,Onboarding,September → October,40.0,,0.5332555425904317,Medium,85.7,2.1465577596266043
+Sudden Change,Commitment %,Onboarding,November → December,100.0,,0.6666666666666666,Medium,60.0,2.333333333333333
+Sudden Change,Commitment %,Onboarding,December → January,0.0,,1.0,Medium,100.0,2.8
+Sudden Change,Commitment %,Onboarding,February → March,100.0,,1.0,Medium,50.0,2.8
+Sudden Change,Investment Allocations - T,Onboarding,September → October,22.0,,1.2,High,10.0,4.4
+Sudden Change,Investment Allocations - T,Onboarding,January → February,4.0,,0.7142857142857143,Medium,14.0,2.4
+Sudden Change,Investment Allocations - T,Onboarding,February → March,18.0,,3.5,High,4.0,9.0
+Sudden Change,Investment Allocations - M,Onboarding,July → August,15.0,,1.5,High,6.0,5.0
+Sudden Change,Investment Allocations - M,Onboarding,August → September,2.0,,0.8666666666666667,Medium,15.0,2.6133333333333333
+Sudden Change,Investment Allocations - M,Onboarding,September → October,11.0,,4.5,High,2.0,11.0
+Sudden Change,Investment Allocations - M,Onboarding,October → November,20.0,,0.8181818181818182,Medium,11.0,2.5454545454545454
+Sudden Change,PR Review Velocity - X / FTE Wk,Onboarding,January → February,4.47,,0.6373626373626373,Medium,2.73,2.292307692307692
+Sudden Change,PRS Merged - X/Wk,Onboarding,July → August,24.0,,0.5102040816326531,Medium,49.0,2.114285714285714
+Sudden Change,PRS Merged - X/Wk,Onboarding,August → September,37.5,,0.5625,Medium,24.0,2.1875
+Sudden Change,PR Comments - X/Wk,Onboarding,August → September,5.0,,4.0,High,1.0,10.0
+Sudden Change,PR Comments - X/Wk,Onboarding,November → December,10.0,,0.6666666666666666,Medium,6.0,2.333333333333333
+Sudden Change,PR Comments - X/Wk,Onboarding,December → January,4.0,,0.6,Medium,10.0,2.2399999999999998
+Sudden Change,PR Comments - X/Wk,Onboarding,January → February,12.0,,2.0,High,4.0,6.0
+Sudden Change,PR Comments - X/FTE Wk,Onboarding,July → August,0.07,,0.5333333333333333,Medium,0.15,2.1466666666666665
+Sudden Change,PR Comments - X/FTE Wk,Onboarding,August → September,0.48,,5.857142857142856,High,0.07,13.714285714285712
+Sudden Change,PR Comments - X/FTE Wk,Onboarding,November → December,0.98,,1.3333333333333335,High,0.42,4.666666666666667
+Sudden Change,PR Comments - X/FTE Wk,Onboarding,January → February,0.9,,0.8,Medium,0.5,2.52
+Sudden Change,Sprint Predictability ,Recruiting Modernization,September → October,15.5,,0.553314121037464,Medium,34.7,2.1746397694524493
+Sudden Change,Sprint Predictability ,Recruiting Modernization,October → November,52.7,,2.4000000000000004,High,15.5,6.800000000000001
+Sudden Change,Sprint Predictability ,Recruiting Modernization,November → December,96.3,,0.827324478178368,Medium,52.7,2.558254269449715
+Sudden Change,Cycle Time (Days) ,Recruiting Modernization,August → September,26.31,,7.542207792207791,High,3.08,17.08441558441558
+Sudden Change,Cycle Time (Days) ,Recruiting Modernization,September → October,4.0,,0.8479665526415812,Medium,26.31,2.5871531736982134
+Sudden Change,Cycle Time (Days) ,Recruiting Modernization,October → November,6.74,,0.685,Medium,4.0,2.359
+Sudden Change,Unplanned work %,Recruiting Modernization,August → September,25.0,,0.5370370370370371,Medium,54.0,2.151851851851852
+Sudden Change,Unplanned work %,Recruiting Modernization,October → November,2.0,,0.8461538461538461,Medium,13.0,2.5846153846153848
+Sudden Change,Unplanned work %,Recruiting Modernization,November → December,9.0,,3.5,High,2.0,9.0
+Sudden Change,Unplanned work %,Recruiting Modernization,December → January,38.0,,3.2222222222222223,High,9.0,8.444444444444445
+Sudden Change,Severity 3 Incidents,Recruiting Modernization,August → September,0.0,,1.0,Medium,1.0,2.8
+Sudden Change,Dispositioned PDR Bugs - Created,Recruiting Modernization,July → August,3.0,,0.8333333333333334,Medium,18.0,2.566666666666667
+Sudden Change,Dispositioned PDR Bugs - Created,Recruiting Modernization,August → September,10.0,,2.3333333333333335,High,3.0,6.666666666666667
+Sudden Change,Dispositioned PDR Bugs - Created,Recruiting Modernization,September → October,3.0,,0.7,Medium,10.0,2.38
+Sudden Change,Dispositioned PDR Bugs - Created,Recruiting Modernization,November → December,10.0,,2.3333333333333335,High,3.0,6.666666666666667
+Sudden Change,Dispositioned PDR Bugs - Created,Recruiting Modernization,December → January,4.0,,0.6,Medium,10.0,2.2399999999999998
+Sudden Change,Dispositioned PDR Bugs - Created,Recruiting Modernization,January → February,12.0,,2.0,High,4.0,6.0
+Sudden Change,Dispositioned PDR Bugs - Resolved,Recruiting Modernization,July → August,4.0,,0.7142857142857143,Medium,14.0,2.4
+Sudden Change,Dispositioned PDR Bugs - Resolved,Recruiting Modernization,November → December,6.0,,1.0,Medium,3.0,2.8
+Sudden Change,Commitment %,Recruiting Modernization,August → September,66.7,,2.9940119760479043,High,16.7,7.9880239520958085
+Sudden Change,Commitment %,Recruiting Modernization,September → October,0.0,,1.0,Medium,66.7,2.8
+Sudden Change,Investment Allocations - R,Recruiting Modernization,September → October,86.0,,0.5357142857142857,Medium,56.0,2.1499999999999995
+Sudden Change,Investment Allocations - R,Recruiting Modernization,November → December,35.0,,0.6354166666666666,Medium,96.0,2.289583333333333
+Sudden Change,Investment Allocations - R,Recruiting Modernization,December → January,0.0,,1.0,Medium,35.0,2.8
+Sudden Change,Investment Allocations - T,Recruiting Modernization,July → August,2.0,,0.7142857142857143,Medium,7.0,2.4
+Sudden Change,Investment Allocations - T,Recruiting Modernization,August → September,24.0,,11.0,High,2.0,24.0
+Sudden Change,Investment Allocations - T,Recruiting Modernization,October → November,0.0,,1.0,Medium,14.0,2.8
+Sudden Change,Investment Allocations - M,Recruiting Modernization,August → September,20.0,,0.5833333333333334,Medium,48.0,2.216666666666667
+Sudden Change,Investment Allocations - M,Recruiting Modernization,September → October,0.0,,1.0,Medium,20.0,2.8
+Sudden Change,Investment Allocations - M,Recruiting Modernization,November → December,25.0,,5.25,High,4.0,12.5
+Sudden Change,Investment Allocations - M,Recruiting Modernization,December → January,50.0,,1.0,Medium,25.0,2.8
+Sudden Change,Investment Allocations - 0,Recruiting Modernization,August → September,0.0,,1.0,Medium,6.0,2.8
+Sudden Change,PR Review Velocity - X / Wk ,Recruiting Modernization,November → December,11.0,,0.8333333333333334,Medium,6.0,2.566666666666667
+Sudden Change,PR Review Velocity - X / FTE Wk,Recruiting Modernization,January → February,3.19,,2.2551020408163267,High,0.98,6.510204081632653
+Sudden Change,PRS Merged - X/Wk,Recruiting Modernization,September → October,6.0,,0.5384615384615384,Medium,13.0,2.1538461538461533
+Sudden Change,PRS Merged - X/Wk,Recruiting Modernization,November → December,12.5,,1.0833333333333333,High,6.0,4.166666666666666
+Sudden Change,PRS Merged -  X/FTE Wk,Recruiting Modernization,November → December,2.18,,0.5683453237410074,Medium,1.39,2.19568345323741
+Sudden Change,PRS Merged -  X/FTE Wk,Recruiting Modernization,January → February,3.67,,2.2192982456140355,High,1.14,6.438596491228071
+Sudden Change,PR Comments - X/Wk,Recruiting Modernization,September → October,22.0,,0.6923076923076923,Medium,13.0,2.3692307692307693
+Sudden Change,PR Comments - X/FTE Wk,Recruiting Modernization,September → October,5.48,,1.3826086956521744,High,2.3,4.765217391304349
+Sudden Change,PR Comments - X/FTE Wk,Recruiting Modernization,October → November,1.97,,0.6405109489051095,Medium,5.48,2.2967153284671533
+Sudden Change,Sprint Predictability ,Recruiting Innovation,October → November,80.0,,0.5094339622641509,Medium,53.0,2.1132075471698113
+Sudden Change,Cycle Time (Days) ,Recruiting Innovation,July → August,10.98,,273.5,High,0.04,549.0
+Sudden Change,Cycle Time (Days) ,Recruiting Innovation,November → December,6.72,,0.6674937965260545,Medium,4.03,2.334491315136476
+Sudden Change,Unplanned work %,Recruiting Innovation,September → October,23.0,,0.5964912280701754,Medium,57.0,2.2350877192982455
+Sudden Change,Unplanned work %,Recruiting Innovation,October → November,46.0,,1.0,Medium,23.0,2.8
+Sudden Change,Unplanned work %,Recruiting Innovation,November → December,4.0,,0.9130434782608695,Medium,46.0,2.6782608695652175
+Sudden Change,Unplanned work %,Recruiting Innovation,December → January,1.0,,0.75,Medium,4.0,2.4499999999999997
+Sudden Change,Severity 3 Incidents,Recruiting Innovation,August → September,0.0,,1.0,Medium,1.0,2.8
+Sudden Change,Dispositioned PDR Bugs - Created,Recruiting Innovation,July → August,3.0,,0.8333333333333334,Medium,18.0,2.566666666666667
+Sudden Change,Dispositioned PDR Bugs - Created,Recruiting Innovation,August → September,10.0,,2.3333333333333335,High,3.0,6.666666666666667
+Sudden Change,Dispositioned PDR Bugs - Created,Recruiting Innovation,September → October,2.0,,0.8,Medium,10.0,2.52
+Sudden Change,Dispositioned PDR Bugs - Created,Recruiting Innovation,November → December,0.0,,1.0,Medium,2.0,2.8
+Sudden Change,Dispositioned PDR Bugs - Resolved,Recruiting Innovation,July → August,4.0,,0.7142857142857143,Medium,14.0,2.4
+Sudden Change,Dispositioned PDR Bugs - Resolved,Recruiting Innovation,November → December,0.0,,1.0,Medium,2.0,2.8
+Sudden Change,Commitment %,Recruiting Innovation,August → September,66.7,,2.9940119760479043,High,16.7,7.9880239520958085
+Sudden Change,Commitment %,Recruiting Innovation,September → October,0.0,,1.0,Medium,66.7,2.8
+Sudden Change,Commitment %,Recruiting Innovation,December → January,0.0,,1.0,Medium,80.0,2.8
+Sudden Change,Investment Allocations - R,Recruiting Innovation,September → October,75.0,,0.875,Medium,40.0,2.625
+Sudden Change,Investment Allocations - T,Recruiting Innovation,August → September,6.0,,2.0,High,2.0,6.0
+Sudden Change,Investment Allocations - T,Recruiting Innovation,December → January,0.0,,1.0,Medium,4.0,2.8
+Sudden Change,Investment Allocations - M,Recruiting Innovation,September → October,19.0,,0.6415094339622641,Medium,53.0,2.2981132075471695
+Sudden Change,Investment Allocations - M,Recruiting Innovation,October → November,32.0,,0.6842105263157895,Medium,19.0,2.357894736842105
+Sudden Change,Investment Allocations - M,Recruiting Innovation,November → December,6.0,,0.8125,Medium,32.0,2.5374999999999996
+Sudden Change,Investment Allocations - M,Recruiting Innovation,December → January,0.0,,1.0,Medium,6.0,2.8
+Sudden Change,Investment Allocations - 0,Recruiting Innovation,September → October,0.0,,1.0,Medium,1.0,2.8
+Sudden Change,PR Review Velocity - X / Wk ,Recruiting Innovation,August → September,7.5,,0.875,Medium,4.0,2.625
+Sudden Change,PR Review Velocity - X / Wk ,Recruiting Innovation,September → October,14.0,,0.8666666666666667,Medium,7.5,2.6133333333333333
+Sudden Change,PR Review Velocity - X / Wk ,Recruiting Innovation,October → November,6.0,,0.5714285714285714,Medium,14.0,2.1999999999999997
+Sudden Change,PR Review Velocity - X / Wk ,Recruiting Innovation,November → December,9.5,,0.5833333333333334,Medium,6.0,2.216666666666667
+Sudden Change,PR Review Velocity - X / Wk ,Recruiting Innovation,December → January,20.0,,1.105263157894737,High,9.5,4.210526315789474
+Sudden Change,PR Review Velocity - X / FTE Wk,Recruiting Innovation,September → October,2.59,,1.3761467889908254,High,1.09,4.752293577981651
+Sudden Change,PR Review Velocity - X / FTE Wk,Recruiting Innovation,October → November,0.85,,0.6718146718146718,Medium,2.59,2.34054054054054
+Sudden Change,PR Review Velocity - X / FTE Wk,Recruiting Innovation,November → December,1.78,,1.0941176470588236,High,0.85,4.188235294117647
+Sudden Change,PR Review Velocity - X / FTE Wk,Recruiting Innovation,December → January,3.19,,0.7921348314606741,Medium,1.78,2.5089887640449433
+Sudden Change,PRS Merged - X/Wk,Recruiting Innovation,July → August,7.0,,6.0,High,1.0,14.0
+Sudden Change,PRS Merged - X/Wk,Recruiting Innovation,September → October,19.0,,0.9,Medium,10.0,2.6599999999999997
+Sudden Change,PRS Merged - X/Wk,Recruiting Innovation,December → January,19.0,,1.0,Medium,9.5,2.8
+Sudden Change,PRS Merged -  X/FTE Wk,Recruiting Innovation,July → August,1.89,,5.3,High,0.3,12.6
+Sudden Change,PRS Merged -  X/FTE Wk,Recruiting Innovation,September → October,3.63,,1.2974683544303796,High,1.58,4.594936708860759
+Sudden Change,PRS Merged -  X/FTE Wk,Recruiting Innovation,October → November,1.2,,0.6694214876033058,Medium,3.63,2.337190082644628
+Sudden Change,PRS Merged -  X/FTE Wk,Recruiting Innovation,November → December,1.8,,0.5000000000000001,Medium,1.2,2.0999999999999996
+Sudden Change,PRS Merged -  X/FTE Wk,Recruiting Innovation,December → January,3.34,,0.8555555555555554,Medium,1.8,2.5977777777777775
+Sudden Change,PR Comments - X/Wk,Recruiting Innovation,November → December,16.5,,3.125,High,4.0,8.25
+Sudden Change,PR Comments - X/FTE Wk,Recruiting Innovation,October → November,0.44,,0.5963302752293579,Medium,1.09,2.234862385321101
+Sudden Change,PR Comments - X/FTE Wk,Recruiting Innovation,November → December,4.14,,8.409090909090908,High,0.44,18.818181818181817
+Sudden Change,Cycle Time (Days) ,Learning Management,December → January,6.96,,0.5432372505543238,Medium,4.51,2.1605321507760533
+Sudden Change,Unplanned work %,Learning Management,August → September,0.34,,0.5454545454545455,Medium,0.22,2.1636363636363636
+Sudden Change,Unplanned work %,Learning Management,September → October,0.64,,0.8823529411764705,Medium,0.34,2.635294117647059
+Sudden Change,Unplanned work %,Learning Management,December → January,0.03,,0.9000000000000001,Medium,0.3,2.66
+Sudden Change,Unplanned work %,Learning Management,February → March,0.0,,1.0,Medium,0.015,2.8
+Sudden Change,Dispositioned PDR Bugs - Created,Learning Management,July → August,4.0,,1.0,Medium,2.0,2.8
+Sudden Change,Dispositioned PDR Bugs - Created,Learning Management,September → October,1.0,,0.6666666666666666,Medium,3.0,2.333333333333333
+Sudden Change,Dispositioned PDR Bugs - Created,Learning Management,October → November,2.0,,1.0,Medium,1.0,2.8
+Sudden Change,Dispositioned PDR Bugs - Created,Learning Management,February → March,5.0,,0.6666666666666666,Medium,3.0,2.333333333333333
+Sudden Change,Dispositioned PDR Bugs - Resolved,Learning Management,July → August,4.0,,3.0,High,1.0,8.0
+Sudden Change,Dispositioned PDR Bugs - Resolved,Learning Management,September → October,0.0,,1.0,Medium,3.0,2.8
+Sudden Change,Commitment %,Learning Management,November → December,100.0,,1.0,Medium,50.0,2.8
+Sudden Change,Commitment %,Learning Management,December → January,0.0,,1.0,Medium,100.0,2.8
+Sudden Change,Investment Allocations - T,Learning Management,November → December,38.0,,1.2352941176470589,High,17.0,4.470588235294118
+Sudden Change,Investment Allocations - M,Learning Management,July → August,4.0,,1.0,Medium,2.0,2.8
+Sudden Change,Investment Allocations - M,Learning Management,October → November,7.0,,2.5,High,2.0,7.0
+Sudden Change,Investment Allocations - M,Learning Management,November → December,0.0,,1.0,Medium,7.0,2.8
+Sudden Change,Investment Allocations - M,Learning Management,January → February,0.0,,1.0,Medium,4.0,2.8
+Sudden Change,PR Review Velocity - X / Wk ,Learning Management,January → February,37.0,,0.7619047619047619,Medium,21.0,2.4666666666666663
+Sudden Change,PR Review Velocity - X / FTE Wk,Learning Management,January → February,3.7,,0.7619047619047619,Medium,2.1,2.4666666666666663
+Sudden Change,PRS Merged - X/Wk,Learning Management,January → February,43.0,,0.8695652173913043,Medium,23.0,2.6173913043478256
+Sudden Change,PRS Merged -  X/FTE Wk,Learning Management,January → February,4.3,,0.8695652173913044,Medium,2.3,2.617391304347826
+Sudden Change,PR Comments - X/Wk,Learning Management,July → August,7.0,,0.75,Medium,4.0,2.4499999999999997
+Sudden Change,PR Comments - X/Wk,Learning Management,November → December,12.0,,1.4,High,5.0,4.8
+Sudden Change,PR Comments - X/Wk,Learning Management,January → February,17.0,,0.7,Medium,10.0,2.38
+Sudden Change,PR Comments - X/FTE Wk,Learning Management,July → August,0.7,,0.7499999999999998,Medium,0.4,2.4499999999999997
+Sudden Change,PR Comments - X/FTE Wk,Learning Management,November → December,1.2,,1.4,High,0.5,4.8
+Sudden Change,PR Comments - X/FTE Wk,Learning Management,January → February,1.7,,0.7,Medium,1.0,2.38
+Sudden Change,Action Plan 1,Learning Management,February → March,3.0,,0.7,Medium,10.0,2.38
+Sudden Change,Sprint Predictability ,Employee Voice,September → October,0.781,,0.6831896551724138,Medium,0.464,2.356465517241379
+Sudden Change,Sprint Predictability ,Employee Voice,December → January,0.785,,0.9478908188585607,Medium,0.403,2.7270471464019845
+Sudden Change,Cycle Time (Days) ,Employee Voice,January → February,9.39,,0.8023032629558543,Medium,5.21,2.5232245681381955
+Sudden Change,Unplanned work %,Employee Voice,October → November,0.45,,1.8125000000000002,High,0.16,5.625
+Sudden Change,Unplanned work %,Employee Voice,January → February,0.08,,0.7714285714285714,Medium,0.35,2.4799999999999995
+Sudden Change,Dispositioned PDR Bugs - Created,Employee Voice,July → August,10.0,,1.5,High,4.0,5.0
+Sudden Change,Dispositioned PDR Bugs - Created,Employee Voice,October → November,4.0,,0.6363636363636364,Medium,11.0,2.2909090909090906
+Sudden Change,Dispositioned PDR Bugs - Created,Employee Voice,November → December,0.0,,1.0,Medium,4.0,2.8
+Sudden Change,Dispositioned PDR Bugs - Created,Employee Voice,January → February,1.0,,0.9,Medium,10.0,2.6599999999999997
+Sudden Change,Dispositioned PDR Bugs - Resolved,Employee Voice,September → October,1.0,,0.875,Medium,8.0,2.625
+Sudden Change,Dispositioned PDR Bugs - Resolved,Employee Voice,November → December,5.0,,4.0,High,1.0,10.0
+Sudden Change,Dispositioned PDR Bugs - Resolved,Employee Voice,December → January,14.0,,1.8,High,5.0,5.6
+Sudden Change,Dispositioned PDR Bugs - Resolved,Employee Voice,January → February,4.0,,0.7142857142857143,Medium,14.0,2.4
+Sudden Change,Commitment %,Employee Voice,September → October,0.0,,1.0,Medium,1.0,2.8
+Sudden Change,Commitment %,Employee Voice,November → December,1.0,,1.0,Medium,0.5,2.8
+Sudden Change,Commitment %,Employee Voice,December → January,0.0,,1.0,Medium,1.0,2.8
+Sudden Change,Investment Allocations - R,Employee Voice,July → August,0.06,,0.76,Medium,0.25,2.464
+Sudden Change,Investment Allocations - R,Employee Voice,August → September,0.13,,1.1666666666666667,High,0.06,4.333333333333334
+Sudden Change,Investment Allocations - R,Employee Voice,September → October,0.68,,4.230769230769231,High,0.13,10.461538461538462
+Sudden Change,Investment Allocations - R,Employee Voice,January → February,0.67,,1.2333333333333336,High,0.3,4.466666666666667
+Sudden Change,Investment Allocations - T,Employee Voice,September → October,0.27,,0.5423728813559322,Medium,0.59,2.1593220338983046
+Sudden Change,Investment Allocations - T,Employee Voice,November → December,0.33,,1.0625,High,0.16,4.125
+Sudden Change,Investment Allocations - M,Employee Voice,September → October,0.05,,0.8214285714285715,Medium,0.28,2.5500000000000003
+Sudden Change,Investment Allocations - M,Employee Voice,November → December,0.22,,2.666666666666667,High,0.06,7.333333333333334
+Sudden Change,Investment Allocations - M,Employee Voice,December → January,0.46,,1.090909090909091,High,0.22,4.181818181818182
+Sudden Change,Investment Allocations - M,Employee Voice,January → February,0.17,,0.6304347826086957,Medium,0.46,2.282608695652174
+Sudden Change,PR Review Velocity - X / Wk ,Employee Voice,December → January,25.0,,1.380952380952381,High,10.5,4.761904761904762
+Sudden Change,PR Review Velocity - X / FTE Wk,Employee Voice,August → September,11.09,,2.7721088435374153,High,2.94,7.5442176870748305
+Sudden Change,PR Review Velocity - X / FTE Wk,Employee Voice,September → October,2.43,,0.7808836789900812,Medium,11.09,2.4932371505861135
+Sudden Change,PR Review Velocity - X / FTE Wk,Employee Voice,November → December,5.75,,1.918781725888325,High,1.97,5.83756345177665
+Sudden Change,PRS Merged - X/Wk,Employee Voice,December → January,24.0,,1.0869565217391304,High,11.5,4.173913043478261
+Sudden Change,PRS Merged -  X/FTE Wk,Employee Voice,August → September,11.31,,2.913494809688581,High,2.89,7.826989619377162
+Sudden Change,PRS Merged -  X/FTE Wk,Employee Voice,September → October,2.7,,0.7612732095490715,Medium,11.31,2.4657824933687
+Sudden Change,PRS Merged -  X/FTE Wk,Employee Voice,November → December,5.75,,1.5669642857142854,High,2.24,5.133928571428571
+Sudden Change,PR Comments - X/Wk,Employee Voice,September → October,21.5,,1.3888888888888888,High,9.0,4.777777777777778
+Sudden Change,PR Comments - X/Wk,Employee Voice,November → December,6.5,,0.6904761904761905,Medium,21.0,2.3666666666666667
+Sudden Change,PR Comments - X/Wk,Employee Voice,December → January,18.0,,1.7692307692307692,High,6.5,5.538461538461538
+Sudden Change,PR Comments - X/FTE Wk,Employee Voice,August → September,10.76,,3.304,High,2.5,8.608
+Sudden Change,PR Comments - X/FTE Wk,Employee Voice,September → October,2.05,,0.8094795539033458,Medium,10.76,2.5332713754646843
+Sudden Change,PR Comments - X/FTE Wk,Employee Voice,November → December,3.37,,0.861878453038674,Medium,1.81,2.6066298342541434
+Sudden Change,Cycle Time (Days) ,Performance Management,September → October,1.08,,0.7786885245901639,Medium,4.88,2.4901639344262296
+Sudden Change,Unplanned work %,Performance Management,December → January,13.0,,0.6578947368421053,Medium,38.0,2.3210526315789473
+Sudden Change,Unplanned work %,Performance Management,January → February,21.0,,0.6153846153846154,Medium,13.0,2.2615384615384615
+Sudden Change,Dispositioned PDR Bugs - Created,Performance Management,September → October,8.0,,1.6666666666666667,High,3.0,5.333333333333334
+Sudden Change,Dispositioned PDR Bugs - Created,Performance Management,January → February,16.0,,1.6666666666666667,High,6.0,5.333333333333334
+Sudden Change,Dispositioned PDR Bugs - Resolved,Performance Management,July → August,2.0,,0.75,Medium,8.0,2.4499999999999997
+Sudden Change,Dispositioned PDR Bugs - Resolved,Performance Management,August → September,7.0,,2.5,High,2.0,7.0
+Sudden Change,Dispositioned PDR Bugs - Resolved,Performance Management,September → October,1.0,,0.8571428571428571,Medium,7.0,2.6
+Sudden Change,Dispositioned PDR Bugs - Resolved,Performance Management,October → November,4.0,,3.0,High,1.0,8.0
+Sudden Change,Dispositioned PDR Bugs - Resolved,Performance Management,January → February,5.0,,0.6666666666666666,Medium,3.0,2.333333333333333
+Sudden Change,Commitment %,Performance Management,December → January,0.0,,1.0,Medium,100.0,2.8
+Sudden Change,Investment Allocations - R,Performance Management,July → August,59.0,,1.36,High,25.0,4.720000000000001
+Sudden Change,Investment Allocations - R,Performance Management,October → November,6.0,,0.7692307692307693,Medium,26.0,2.4769230769230766
+Sudden Change,Investment Allocations - R,Performance Management,November → December,27.0,,3.5,High,6.0,9.0
+Sudden Change,Investment Allocations - R,Performance Management,December → January,42.0,,0.5555555555555556,Medium,27.0,2.1777777777777776
+Sudden Change,Investment Allocations - T,Performance Management,July → August,10.0,,4.0,High,2.0,10.0
+Sudden Change,Investment Allocations - T,Performance Management,August → September,4.0,,0.6,Medium,10.0,2.2399999999999998
+Sudden Change,Investment Allocations - T,Performance Management,November → December,0.0,,1.0,Medium,3.0,2.8
+Sudden Change,Investment Allocations - M,Performance Management,July → August,31.0,,0.5753424657534246,Medium,73.0,2.2054794520547945
+Sudden Change,Investment Allocations - M,Performance Management,August → September,60.0,,0.9354838709677419,Medium,31.0,2.7096774193548385
+Sudden Change,PR Review Velocity - X / Wk ,Performance Management,January → February,13.0,,1.6,High,5.0,5.2
+Sudden Change,PR Review Velocity - X / FTE Wk,Performance Management,January → February,3.43,,2.118181818181818,High,1.1,6.236363636363636
+Sudden Change,PRS Merged - X/Wk,Performance Management,August → September,4.5,,0.55,Medium,10.0,2.17
+Sudden Change,PRS Merged - X/Wk,Performance Management,September → October,10.0,,1.2222222222222223,High,4.5,4.444444444444445
+Sudden Change,PRS Merged - X/Wk,Performance Management,January → February,11.0,,1.2,High,5.0,4.4
+Sudden Change,PRS Merged -  X/FTE Wk,Performance Management,August → September,0.79,,0.5927835051546392,Medium,1.94,2.229896907216495
+Sudden Change,PRS Merged -  X/FTE Wk,Performance Management,September → October,1.55,,0.9620253164556962,Medium,0.79,2.7468354430379747
+Sudden Change,PRS Merged -  X/FTE Wk,Performance Management,January → February,3.04,,2.662650602409639,High,0.83,7.325301204819278
+Sudden Change,PR Comments - X/Wk,Performance Management,August → September,6.5,,2.25,High,2.0,6.5
+Sudden Change,PR Comments - X/Wk,Performance Management,December → January,1.0,,0.6666666666666666,Medium,3.0,2.333333333333333
+Sudden Change,PR Comments - X/Wk,Performance Management,January → February,11.0,,10.0,High,1.0,22.0
+Sudden Change,PR Comments - X/FTE Wk,Performance Management,November → December,0.88,,0.7959183673469388,Medium,0.49,2.5142857142857142
+Sudden Change,PR Comments - X/FTE Wk,Performance Management,December → January,0.17,,0.8068181818181818,Medium,0.88,2.5295454545454543
+Sudden Change,PR Comments - X/FTE Wk,Performance Management,January → February,2.28,,12.411764705882351,High,0.17,26.823529411764703
+Sudden Change,Cycle Time (Days) ,Compensation Management,October → November,3.05,,0.6850828729281766,Medium,1.81,2.359116022099447
+Sudden Change,Unplanned work %,Compensation Management,September → October,0.04,,0.7333333333333333,Medium,0.15,2.4266666666666667
+Sudden Change,Unplanned work %,Compensation Management,October → November,0.01,,0.75,Medium,0.04,2.4499999999999997
+Sudden Change,Unplanned work %,Compensation Management,November → December,0.003,,0.7,Medium,0.01,2.38
+Sudden Change,Unplanned work %,Compensation Management,December → January,0.03,,9.0,High,0.003,20.0
+Sudden Change,Unplanned work %,Compensation Management,January → February,0.05,,0.6666666666666669,Medium,0.03,2.3333333333333335
+Sudden Change,Severity 3 Incidents,Compensation Management,October → November,0.0,,1.0,Medium,1.0,2.8
+Sudden Change,Dispositioned PDR Bugs - Created,Compensation Management,July → August,0.0,,1.0,Medium,7.0,2.8
+Sudden Change,Dispositioned PDR Bugs - Created,Compensation Management,November → December,2.0,,1.0,Medium,1.0,2.8
+Sudden Change,Dispositioned PDR Bugs - Created,Compensation Management,December → January,4.0,,1.0,Medium,2.0,2.8
+Sudden Change,Dispositioned PDR Bugs - Created,Compensation Management,January → February,7.0,,0.75,Medium,4.0,2.4499999999999997
+Sudden Change,Dispositioned PDR Bugs - Resolved,Compensation Management,July → August,1.0,,0.8888888888888888,Medium,9.0,2.6444444444444444
+Sudden Change,Dispositioned PDR Bugs - Resolved,Compensation Management,September → October,4.0,,3.0,High,1.0,8.0
+Sudden Change,Dispositioned PDR Bugs - Resolved,Compensation Management,October → November,0.0,,1.0,Medium,4.0,2.8
+Sudden Change,Dispositioned PDR Bugs - Resolved,Compensation Management,January → February,6.0,,2.0,High,2.0,6.0
+Sudden Change,Commitment %,Compensation Management,August → September,1.0,,8.00900900900901,High,0.111,18.01801801801802
+Sudden Change,Commitment %,Compensation Management,September → October,0.167,,0.833,Medium,1.0,2.5662
+Sudden Change,Commitment %,Compensation Management,October → November,0.33,,0.9760479041916168,Medium,0.167,2.7664670658682633
+Sudden Change,Commitment %,Compensation Management,November → December,1.0,,2.03030303030303,High,0.33,6.06060606060606
+Sudden Change,Commitment %,Compensation Management,December → January,0.222,,0.778,Medium,1.0,2.4892
+Sudden Change,Commitment %,Compensation Management,January → February,0.444,,1.0,Medium,0.222,2.8
+Sudden Change,Investment Allocations - R,Compensation Management,July → August,0.67,,0.717948717948718,Medium,0.39,2.405128205128205
+Sudden Change,Investment Allocations - T,Compensation Management,July → August,0.17,,3.25,High,0.04,8.5
+Sudden Change,Investment Allocations - T,Compensation Management,August → September,0.04,,0.7647058823529411,Medium,0.17,2.4705882352941173
+Sudden Change,Investment Allocations - T,Compensation Management,September → October,0.0,,1.0,Medium,0.04,2.8
+Sudden Change,Investment Allocations - M,Compensation Management,July → August,0.16,,0.719298245614035,Medium,0.57,2.407017543859649
+Sudden Change,Investment Allocations - M,Compensation Management,September → October,0.31,,0.631578947368421,Medium,0.19,2.2842105263157895
+Sudden Change,Investment Allocations - M,Compensation Management,October → November,0.13,,0.5806451612903225,Medium,0.31,2.212903225806451
+Sudden Change,Investment Allocations - M,Compensation Management,November → December,0.06,,0.5384615384615385,Medium,0.13,2.1538461538461537
+Sudden Change,Investment Allocations - M,Compensation Management,January → February,0.19,,2.166666666666667,High,0.06,6.333333333333334
+Sudden Change,Investment Allocations - 0,Compensation Management,November → December,0.0,,1.0,Medium,0.16,2.8
+Sudden Change,PR Review Velocity - X / FTE Wk,Compensation Management,December → January,2.81,,0.6627218934911243,Medium,1.69,2.327810650887574
+Sudden Change,PR Review Velocity - X / FTE Wk,Compensation Management,January → February,1.37,,0.5124555160142349,Medium,2.81,2.117437722419929
+Sudden Change,PRS Merged -  X/FTE Wk,Compensation Management,December → January,2.7,,0.5697674418604652,Medium,1.72,2.197674418604651
+Sudden Change,PR Comments - X/Wk,Compensation Management,July → August,23.0,,0.5333333333333333,Medium,15.0,2.1466666666666665
+Sudden Change,PR Comments - X/Wk,Compensation Management,September → October,23.0,,0.7037037037037037,Medium,13.5,2.385185185185185
+Sudden Change,PR Comments - X/Wk,Compensation Management,November → December,48.5,,2.2333333333333334,High,15.0,6.466666666666667
+Trend Reversal,Sprint Predictability ,Recognition & Rewards,Mid-period,,,3.0549999999999926,Medium,,4.257749999999992
+Trend Reversal,Cycle Time (Days) ,Recognition & Rewards,Mid-period,,,0.5654999999999992,Medium,,1.6437749999999989
+Trend Reversal,Unplanned work %,Recognition & Rewards,Mid-period,,,13.2,Medium,,14.909999999999997
+Trend Reversal,Dispositioned PDR Bugs - Resolved,Recognition & Rewards,Mid-period,,,1.9,Medium,,3.0449999999999995
+Trend Reversal,Commitment %,Recognition & Rewards,Mid-period,,,10.5,Medium,,12.074999999999998
+Trend Reversal,Investment Allocations - R,Recognition & Rewards,Mid-period,,,26.25,Medium,,28.612499999999994
+Trend Reversal,Investment Allocations - T,Recognition & Rewards,Mid-period,,,0.40000000000000036,Medium,,1.4700000000000002
+Trend Reversal,Investment Allocations - M,Recognition & Rewards,Mid-period,,,25.85,Medium,,28.192499999999995
+Trend Reversal,PR Review Velocity - X / Wk ,Recognition & Rewards,Mid-period,,,3.6999999999999993,Medium,,4.934999999999999
+Trend Reversal,PR Review Velocity - X / FTE Wk,Recognition & Rewards,Mid-period,,,0.7655000000000003,Medium,,1.853775
+Trend Reversal,PRS Merged - X/Wk,Recognition & Rewards,Mid-period,,,4.475,Medium,,5.7487499999999985
+Trend Reversal,PRS Merged -  X/FTE Wk,Recognition & Rewards,Mid-period,,,0.8605,Medium,,1.9535249999999997
+Trend Reversal,PR Comments - X/Wk,Recognition & Rewards,Mid-period,,,3.375,Medium,,4.593749999999999
+Trend Reversal,PR Comments - X/FTE Wk,Recognition & Rewards,Mid-period,,,2.5275000000000016,Medium,,3.703875000000001
+Trend Reversal,Sprint Predictability ,Onboarding,Mid-period,,,5.734999999999999,Medium,,7.071749999999998
+Trend Reversal,Cycle Time (Days) ,Onboarding,Mid-period,,,1.1600000000000001,Medium,,2.268
+Trend Reversal,Unplanned work %,Onboarding,Mid-period,,,4.699999999999999,Medium,,5.9849999999999985
+Trend Reversal,Severity 1 Incidents,Onboarding,Mid-period,,,0.2,Medium,,1.2599999999999998
+Trend Reversal,Dispositioned PDR Bugs - Created,Onboarding,Mid-period,,,10.3,Medium,,11.864999999999998
+Trend Reversal,Dispositioned PDR Bugs - Resolved,Onboarding,Mid-period,,,2.5,Medium,,3.6749999999999994
+Trend Reversal,Commitment %,Onboarding,Mid-period,,,26.4,Medium,,28.769999999999992
+Trend Reversal,Investment Allocations - R,Onboarding,Mid-period,,,12.0,Medium,,13.649999999999999
+Trend Reversal,Investment Allocations - T,Onboarding,Mid-period,,,1.9000000000000004,Medium,,3.045
+Trend Reversal,Investment Allocations - M,Onboarding,Mid-period,,,10.100000000000001,Medium,,11.655
+Trend Reversal,PR Review Velocity - X / FTE Wk,Onboarding,Mid-period,,,0.04500000000000082,Medium,,1.0972500000000007
+Trend Reversal,PRS Merged - X/Wk,Onboarding,Mid-period,,,0.02499999999999858,Medium,,1.0762499999999984
+Trend Reversal,PRS Merged -  X/FTE Wk,Onboarding,Mid-period,,,0.24499999999999966,Medium,,1.3072499999999994
+Trend Reversal,PR Comments - X/Wk,Onboarding,Mid-period,,,4.949999999999999,Medium,,6.247499999999998
+Trend Reversal,PR Comments - X/FTE Wk,Onboarding,Mid-period,,,0.4465,Medium,,1.5188249999999996
+Trend Reversal,Sprint Predictability ,Recruiting Modernization,Mid-period,,,50.374999999999986,Medium,,53.94374999999997
+Trend Reversal,Unplanned work %,Recruiting Modernization,Mid-period,,,9.416666666666668,Medium,,10.9375
+Trend Reversal,Dispositioned PDR Bugs - Created,Recruiting Modernization,Mid-period,,,1.25,Medium,,2.3625
+Trend Reversal,Dispositioned PDR Bugs - Resolved,Recruiting Modernization,Mid-period,,,0.5,Medium,,1.5749999999999997
+Trend Reversal,Commitment %,Recruiting Modernization,Mid-period,,,12.600000000000001,Medium,,14.28
+Trend Reversal,Investment Allocations - R,Recruiting Modernization,Mid-period,,,22.5,Medium,,24.674999999999997
+Trend Reversal,Investment Allocations - M,Recruiting Modernization,Mid-period,,,1.25,Medium,,2.3625
+Trend Reversal,PR Review Velocity - X / Wk ,Recruiting Modernization,Mid-period,,,3.75,Medium,,4.987499999999999
+Trend Reversal,PR Review Velocity - X / FTE Wk,Recruiting Modernization,Mid-period,,,0.1775,Medium,,1.2363749999999998
+Trend Reversal,PRS Merged - X/Wk,Recruiting Modernization,Mid-period,,,0.625,Medium,,1.7062499999999998
+Trend Reversal,PRS Merged -  X/FTE Wk,Recruiting Modernization,Mid-period,,,0.1849999999999996,Medium,,1.2442499999999994
+Trend Reversal,PR Comments - X/FTE Wk,Recruiting Modernization,Mid-period,,,1.7108333333333337,Medium,,2.8463749999999997
+Trend Reversal,Sprint Predictability ,Recruiting Innovation,Mid-period,,,15.200000000000003,Medium,,17.01
+Trend Reversal,Cycle Time (Days) ,Recruiting Innovation,Mid-period,,,0.7324999999999999,Medium,,1.8191249999999997
+Trend Reversal,Commitment %,Recruiting Innovation,Mid-period,,,24.074999999999996,Medium,,26.328749999999992
+Trend Reversal,Investment Allocations - R,Recruiting Innovation,Mid-period,,,32.0,Medium,,34.64999999999999
+Trend Reversal,Investment Allocations - M,Recruiting Innovation,Mid-period,,,30.5,Medium,,33.074999999999996
+Trend Reversal,PRS Merged - X/Wk,Recruiting Innovation,Mid-period,,,6.625,Medium,,8.006249999999998
+Trend Reversal,PR Comments - X/FTE Wk,Recruiting Innovation,Mid-period,,,2.235,Medium,,3.3967499999999995
+Trend Reversal,Sprint Predictability ,Learning Management,Mid-period,,,0.0334500000000002,Medium,,1.0851225
+Trend Reversal,Cycle Time (Days) ,Learning Management,Mid-period,,,0.37650000000000006,Medium,,1.4453249999999997
+Trend Reversal,Dispositioned PDR Bugs - Resolved,Learning Management,Mid-period,,,0.6000000000000001,Medium,,1.6799999999999997
+Trend Reversal,Commitment %,Learning Management,Mid-period,,,69.8,Medium,,74.33999999999999
+Trend Reversal,Investment Allocations - R,Learning Management,Mid-period,,,17.549999999999997,Medium,,19.477499999999992
+Trend Reversal,Investment Allocations - T,Learning Management,Mid-period,,,17.85,Medium,,19.792499999999997
+Trend Reversal,Investment Allocations - M,Learning Management,Mid-period,,,0.2999999999999998,Medium,,1.3649999999999995
+Trend Reversal,PR Review Velocity - X / Wk ,Learning Management,Mid-period,,,8.399999999999999,Medium,,9.869999999999997
+Trend Reversal,PR Review Velocity - X / FTE Wk,Learning Management,Mid-period,,,0.8399999999999994,Medium,,1.931999999999999
+Trend Reversal,PRS Merged - X/Wk,Learning Management,Mid-period,,,7.199999999999999,Medium,,8.609999999999998
+Trend Reversal,PRS Merged -  X/FTE Wk,Learning Management,Mid-period,,,0.6949999999999998,Medium,,1.7797499999999995
+Trend Reversal,PR Comments - X/Wk,Learning Management,Mid-period,,,8.25,Medium,,9.712499999999999
+Trend Reversal,PR Comments - X/FTE Wk,Learning Management,Mid-period,,,0.8250000000000001,Medium,,1.9162499999999998
+Trend Reversal,Sprint Predictability ,Employee Voice,Mid-period,,,0.13775000000000015,Medium,,1.1946374999999998
+Trend Reversal,Cycle Time (Days) ,Employee Voice,Mid-period,,,2.0649999999999995,Medium,,3.218249999999999
+Trend Reversal,Dispositioned PDR Bugs - Created,Employee Voice,Mid-period,,,4.5,Medium,,5.774999999999999
+Trend Reversal,Dispositioned PDR Bugs - Resolved,Employee Voice,Mid-period,,,0.75,Medium,,1.8374999999999997
+Trend Reversal,Commitment %,Employee Voice,Mid-period,,,0.125,Medium,,1.18125
+Trend Reversal,Investment Allocations - R,Employee Voice,Mid-period,,,0.27,Medium,,1.3334999999999997
+Trend Reversal,Investment Allocations - T,Employee Voice,Mid-period,,,0.24500000000000002,Medium,,1.3072499999999998
+Trend Reversal,Investment Allocations - M,Employee Voice,Mid-period,,,0.024999999999999994,Medium,,1.0762499999999997
+Trend Reversal,PR Review Velocity - X / Wk ,Employee Voice,Mid-period,,,0.75,Medium,,1.8374999999999997
+Trend Reversal,PR Review Velocity - X / FTE Wk,Employee Voice,Mid-period,,,1.4425000000000008,Medium,,2.5646250000000004
+Trend Reversal,PRS Merged - X/Wk,Employee Voice,Mid-period,,,0.375,Medium,,1.4437499999999996
+Trend Reversal,PRS Merged -  X/FTE Wk,Employee Voice,Mid-period,,,1.5225000000000004,Medium,,2.648625
+Trend Reversal,PR Comments - X/Wk,Employee Voice,Mid-period,,,0.75,Medium,,1.8374999999999997
+Trend Reversal,PR Comments - X/FTE Wk,Employee Voice,Mid-period,,,2.2375000000000003,Medium,,3.3993749999999996
+Trend Reversal,Cycle Time (Days) ,Performance Management,Mid-period,,,0.6800000000000006,Medium,,1.7640000000000002
+Trend Reversal,Unplanned work %,Performance Management,Mid-period,,,2.5,Medium,,3.6749999999999994
+Trend Reversal,Dispositioned PDR Bugs - Created,Performance Management,Mid-period,,,6.25,Medium,,7.612499999999999
+Trend Reversal,Dispositioned PDR Bugs - Resolved,Performance Management,Mid-period,,,0.25,Medium,,1.3124999999999998
+Trend Reversal,Commitment %,Performance Management,Mid-period,,,25.0,Medium,,27.299999999999997
+Trend Reversal,Investment Allocations - R,Performance Management,Mid-period,,,8.0,Medium,,9.45
+Trend Reversal,Investment Allocations - T,Performance Management,Mid-period,,,3.0,Medium,,4.199999999999999
+Trend Reversal,Investment Allocations - M,Performance Management,Mid-period,,,11.25,Medium,,12.862499999999997
+Trend Reversal,PR Review Velocity - X / Wk ,Performance Management,Mid-period,,,1.5,Medium,,2.6249999999999996
+Trend Reversal,PR Review Velocity - X / FTE Wk,Performance Management,Mid-period,,,0.05499999999999994,Medium,,1.1077499999999998
+Trend Reversal,PRS Merged - X/Wk,Performance Management,Mid-period,,,0.625,Medium,,1.7062499999999998
+Trend Reversal,PRS Merged -  X/FTE Wk,Performance Management,Mid-period,,,0.02750000000000008,Medium,,1.0788749999999998
+Trend Reversal,PR Comments - X/Wk,Performance Management,Mid-period,,,0.625,Medium,,1.7062499999999998
+Trend Reversal,PR Comments - X/FTE Wk,Performance Management,Mid-period,,,0.0050000000000000044,Medium,,1.0552499999999998
+Trend Reversal,Sprint Predictability ,Compensation Management,Mid-period,,,0.15625,Medium,,1.2140624999999998
+Trend Reversal,Cycle Time (Days) ,Compensation Management,Mid-period,,,1.04,Medium,,2.1419999999999995
+Trend Reversal,Unplanned work %,Compensation Management,Mid-period,,,0.11925000000000002,Medium,,1.1752125
+Trend Reversal,Dispositioned PDR Bugs - Resolved,Compensation Management,Mid-period,,,1.0,Medium,,2.0999999999999996
+Trend Reversal,Commitment %,Compensation Management,Mid-period,,,0.1795,Medium,,1.2384749999999998
+Trend Reversal,Investment Allocations - R,Compensation Management,Mid-period,,,0.1875,Medium,,1.2468749999999997
+Trend Reversal,Investment Allocations - T,Compensation Management,Mid-period,,,0.06,Medium,,1.1129999999999998
+Trend Reversal,Investment Allocations - M,Compensation Management,Mid-period,,,0.1975,Medium,,1.2573749999999997
+Trend Reversal,Investment Allocations - 0,Compensation Management,Mid-period,,,0.07,Medium,,1.1235
+Trend Reversal,Ease of Delivery ,Compensation Management,Mid-period,,,3.0,Medium,,4.199999999999999
+Trend Reversal,PR Review Velocity - X / Wk ,Compensation Management,Mid-period,,,2.25,Medium,,3.4124999999999996
+Trend Reversal,PR Review Velocity - X / FTE Wk,Compensation Management,Mid-period,,,0.20999999999999974,Medium,,1.2704999999999995
+Trend Reversal,PRS Merged - X/Wk,Compensation Management,Mid-period,,,1.5,Medium,,2.6249999999999996
+Trend Reversal,PRS Merged -  X/FTE Wk,Compensation Management,Mid-period,,,0.1625000000000001,Medium,,1.2206249999999998
+Trend Reversal,PR Comments - X/Wk,Compensation Management,Mid-period,,,15.5,Medium,,17.324999999999996
+Trend Reversal,PR Comments - X/FTE Wk,Compensation Management,Mid-period,,,1.6675,Medium,,2.8008749999999996

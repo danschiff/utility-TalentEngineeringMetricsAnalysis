@@ -1,0 +1,34 @@
+Unicode arrows verification in Slide 3:
+
+Table with 18 rows and 5 columns:
+
+Row 0: 'Metric' | Feb: 'February' | Mar: 'March' | ∆: 'MoM ∆'
+Row 1: 'Productivity & Capacity' | Feb: '' | Mar: '' | ∆: ''
+Row 2: 'Sprint Predictability' | Feb: '75.3%' | Mar: '93.9%' | ∆: '↑18.6%'
+Row 3: 'Cycle Time (days)' | Feb: '2.89 days' | Mar: '2.98 days' | ∆: '↑0.09 days'
+Row 4: 'Unplanned Work %' | Feb: '5.0%' | Mar: '16.0%' | ∆: '↑11.0%'
+Row 5: 'Wasted Effort %' | Feb: '0%' | Mar: '0%' | ∆: '0%'
+Row 6: 'Reliability' | Feb: '' | Mar: '' | ∆: ''
+Row 7: 'Sev 1/2/3 Incidents' | Feb: '0/0/0' | Mar: '0/0/0' | ∆: 'N/A'
+Row 8: 'MTTR (Sev 1)' | Feb: 'N/A' | Mar: 'N/A' | ∆: 'N/A'
+Row 9: 'Quality' | Feb: '' | Mar: '' | ∆: ''
+Row 10: 'Dispositioned PDR Bugs1' | Feb: 'Assigned: 7
+Resolved: 6' | Mar: 'Assigned: 7
+Resolved: 7' | ∆: 'Assigned: 0
+Resolved: ↑1'
+Row 11: 'Change Failure Rate2' | Feb: 'N/A' | Mar: 'N/A' | ∆: 'N/A'
+Row 12: 'Code Coverage %' | Feb: 'N/A' | Mar: 'N/A' | ∆: 'N/A'
+Row 13: 'Delivery & Commitments' | Feb: '' | Mar: '' | ∆: ''
+Row 14: 'Commitment %' | Feb: '44.4%' | Mar: '100%' | ∆: '↑55.6%'
+Row 15: 'Investment Allocations' | Feb: 'R: 68%
+T: 1%
+M: 19%
+O: 0%' | Mar: 'R: 
+T: 
+M: 
+O:' | ∆: 'R: 
+T: 
+M:
+O:'
+Row 16: 'Deployment Frequency2' | Feb: '' | Mar: '' | ∆: ''
+Row 17: 'Lead Time for Changes2' | Feb: '' | Mar: '' | ∆: ''

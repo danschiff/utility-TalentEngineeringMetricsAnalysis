@@ -1,0 +1,11 @@
+Metric Category,Value,Description
+Total Metrics Analyzed,27,Unique metrics in analysis
+Teams Covered,8,Number of teams analyzed
+Improving Metrics,50 (27.6%),Metrics with positive trend
+Stable Metrics,76 (42.0%),Metrics with flat trend
+Declining Metrics,55 (30.4%),Metrics with negative trend
+Total Anomalies (High-Confidence),94,High-confidence anomalies for investigation
+Metrics with Anomalies,15,Unique metrics flagged
+Teams with Anomalies,8,Teams affected by anomalies
+Most Common Anomaly Type,Sudden Change,Predominant anomaly pattern
+Analysis Period,July - February,9-month historical analysis

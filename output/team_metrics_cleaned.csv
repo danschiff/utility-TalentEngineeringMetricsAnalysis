@@ -1,0 +1,288 @@
+team,metric_group,metric,source,metric_unit,metric_direction,benchmark_min,benchmark_max,benchmark_mid,benchmark_unit,July_value,July_flag,August_value,August_flag,September_value,September_flag,October_value,October_flag,November_value,November_flag,December_value,December_flag,January_value,January_flag,February_value,February_flag,March_value,March_flag
+Recognition & Rewards,Productivity and Capacity,Sprint Predictability ,Jellyfish,%,higher_better,80.0,85.0,82.5,%,50.0,VALID,69.4,VALID,40.1,VALID,69.4,VALID,35.0,VALID,61.3,VALID,59.4,VALID,75.3,VALID,70.4,VALID
+Recognition & Rewards,Productivity and Capacity,Cycle Time (Days) ,Jellyfish,time,lower_better,5.0,8.0,6.5,days,7.42,VALID,6.98,VALID,7.0,VALID,4.87,VALID,5.43,VALID,7.14,VALID,6.1,VALID,4.77,VALID,6.57,VALID
+Recognition & Rewards,Productivity and Capacity,Unplanned work %,Jellyfish,%,lower_better,30.0,40.0,35.0,%,5.0,VALID,11.0,VALID,15.0,VALID,13.0,VALID,16.0,VALID,17.0,VALID,31.0,VALID,25.0,VALID,32.0,VALID
+Recognition & Rewards,Productivity and Capacity,Wasted Effort %,Jellyfish,%,lower_better,5.0,12.0,8.5,%,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID
+Recognition & Rewards,Reliability ,Severity 1 Incidents,Datadog,count,lower_better,0.0,1.0,0.5,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID
+Recognition & Rewards,Reliability ,Severity 2 Incidents,Datadog,count,lower_better,1.0,3.0,2.0,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID
+Recognition & Rewards,Reliability ,Severity 3 Incidents,Datadog,count,lower_better,5.0,10.0,7.5,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID
+Recognition & Rewards,Reliability ,MTTR (Sev 1),Datadog,time,lower_better,6.0,12.0,9.0,hours,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recognition & Rewards,Quality,Dispositioned PDR Bugs - Created,JIRA,count,lower_better,10.0,25.0,17.5,/,0.0,VALID,4.0,VALID,0.0,VALID,4.0,VALID,6.0,VALID,1.0,VALID,0.0,VALID,0.0,VALID,3.0,VALID
+Recognition & Rewards,Quality,Dispositioned PDR Bugs - Resolved,JIRA,%,higher_better,10.0,25.0,17.5,/,2.0,VALID,3.0,VALID,3.0,VALID,2.0,VALID,2.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,1.0,VALID
+Recognition & Rewards,Quality,Change Failure Rate,TBD,%,lower_better,20.0,30.0,25.0,%,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recognition & Rewards,Quality,Code Coverage %,TBD,%,higher_better,60.0,75.0,67.5,%,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recognition & Rewards,Quality,Defect Density,TBD,%,lower_better,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recognition & Rewards,Quality,Defect Escape Rate,TBD,%,lower_better,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recognition & Rewards,Delivery & Commitments ,Commitment %,JIRA,%,higher_better,80.0,90.0,85.0,%,0.0,VALID,50.0,VALID,100.0,VALID,20.0,VALID,40.0,VALID,100.0,VALID,0.0,VALID,25.0,VALID,100.0,VALID
+Recognition & Rewards,Delivery & Commitments ,Investment Allocations - R,Jellyfish,%,higher_better,40.0,55.0,47.5,%,88.0,VALID,51.0,VALID,63.0,VALID,67.0,VALID,52.0,VALID,64.0,VALID,28.0,VALID,26.0,VALID,35.0,VALID
+Recognition & Rewards,Delivery & Commitments ,Investment Allocations - T,Jellyfish,%,higher_better,5.0,15.0,10.0,%,0.0,VALID,15.0,VALID,8.0,VALID,1.0,VALID,16.0,VALID,4.0,VALID,4.0,VALID,5.0,VALID,3.0,VALID
+Recognition & Rewards,Delivery & Commitments ,Investment Allocations - M,Jellyfish,%,higher_better,30.0,40.0,35.0,%,12.0,VALID,34.0,VALID,29.0,VALID,32.0,VALID,32.0,VALID,32.0,VALID,68.0,VALID,69.0,VALID,62.0,VALID
+Recognition & Rewards,Delivery & Commitments ,Investment Allocations - 0,Jellyfish,%,higher_better,,,,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID
+Recognition & Rewards,Delivery & Commitments ,Deployment Frequency,TBD,count,context_dependent,1.0,2.0,1.5,week,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recognition & Rewards,Delivery & Commitments ,Lead Time for Changes,TBD,time,lower_better,1.0,3.0,2.0,days,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recognition & Rewards,Sentiment & Team Health,Developer Satisfaction,Jellyfish,count,context_dependent,70.0,77.0,73.5,,70.0,VALID,70.0,VALID,70.0,VALID,,UNCERTAIN,,NA,,NA,,NA,,NA,,NA
+Recognition & Rewards,Sentiment & Team Health,Quality of Meetings,Jellyfish,count,context_dependent,,,,,70.0,VALID,70.0,VALID,70.0,VALID,,UNCERTAIN,,NA,,NA,,NA,,NA,,NA
+Recognition & Rewards,Sentiment & Team Health,Perceived Productivity ,Jellyfish,count,context_dependent,65.0,75.0,70.0,,50.0,VALID,50.0,VALID,50.0,VALID,,UNCERTAIN,,NA,,NA,,NA,,NA,,NA
+Recognition & Rewards,Sentiment & Team Health,Ease of Delivery ,Jellyfish,count,context_dependent,70.0,80.0,75.0,,62.0,VALID,62.0,VALID,62.0,VALID,,UNCERTAIN,,NA,,NA,,NA,,NA,,NA
+Recognition & Rewards,Sentiment & Team Health,On-all Load (hrs/month) ,TBD,count,context_dependent,20.0,30.0,25.0,hours,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recognition & Rewards,Sentiment & Team Health,Regrettable Attrition,TBD,%,lower_better,,,,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID
+Recognition & Rewards,Quality ,PR Review Velocity - X / Wk ,Jellyfish,count,context_dependent,,,,,17.0,VALID,12.0,VALID,16.0,VALID,13.0,VALID,12.0,VALID,16.0,VALID,7.0,VALID,6.0,VALID,13.0,VALID
+Recognition & Rewards,Quality ,PR Review Velocity - X / FTE Wk,Jellyfish,count,context_dependent,,,,,2.95,VALID,1.96,VALID,2.2,VALID,2.68,VALID,1.76,VALID,2.12,VALID,1.06,VALID,1.28,VALID,2.19,VALID
+Recognition & Rewards,Quality ,PRS Merged - X/Wk,Jellyfish,count,higher_better,,,,,18.0,VALID,12.0,VALID,16.0,VALID,13.5,VALID,12.0,VALID,16.0,VALID,6.0,VALID,6.0,VALID,12.0,VALID
+Recognition & Rewards,Quality ,PRS Merged -  X/FTE Wk,Jellyfish,count,higher_better,,,,,2.95,VALID,1.93,VALID,2.27,VALID,2.74,VALID,1.78,VALID,2.15,VALID,1.06,VALID,1.33,VALID,1.74,VALID
+Recognition & Rewards,Quality ,PR Comments - X/Wk,Jellyfish,count,context_dependent,,,,,31.0,VALID,55.0,VALID,47.0,VALID,71.5,VALID,79.0,VALID,53.5,VALID,23.0,VALID,40.0,VALID,77.0,VALID
+Recognition & Rewards,Quality ,PR Comments - X/FTE Wk,Jellyfish,count,context_dependent,,,,,7.34,VALID,11.97,VALID,7.17,VALID,15.71,VALID,8.69,VALID,8.6,VALID,2.89,VALID,6.77,VALID,13.15,VALID
+Recognition & Rewards,,Action Plan 1,,count,context_dependent,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,80.0,NARRATIVE,80.0,NARRATIVE
+Recognition & Rewards,,Action Plan 2,,count,context_dependent,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,25.0,NARRATIVE,25.0,NARRATIVE
+Recognition & Rewards,,Action Plan 3,,count,context_dependent,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Onboarding,Productivity and Capacity,Sprint Predictability ,Jellyfish,%,higher_better,80.0,85.0,82.5,%,90.0,VALID,75.4,VALID,73.6,VALID,95.3,VALID,71.0,VALID,67.3,VALID,81.2,VALID,89.7,VALID,80.0,VALID
+Onboarding,Productivity and Capacity,Cycle Time (Days) ,Jellyfish,time,lower_better,5.0,8.0,6.5,days,3.9,VALID,6.48,VALID,3.96,VALID,5.26,VALID,8.0,VALID,4.5,VALID,4.03,VALID,6.04,VALID,7.73,VALID
+Onboarding,Productivity and Capacity,Unplanned work %,Jellyfish,%,lower_better,30.0,40.0,35.0,%,6.0,VALID,7.0,VALID,8.0,VALID,9.0,VALID,20.0,VALID,9.0,VALID,7.0,VALID,3.0,VALID,22.0,VALID
+Onboarding,Productivity and Capacity,Wasted Effort %,Jellyfish,%,lower_better,5.0,12.0,8.5,%,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID
+Onboarding,Reliability ,Severity 1 Incidents,Datadog,count,lower_better,0.0,1.0,0.5,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,1.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID
+Onboarding,Reliability ,Severity 2 Incidents,Datadog,count,lower_better,1.0,3.0,2.0,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID
+Onboarding,Reliability ,Severity 3 Incidents,Datadog,count,lower_better,5.0,10.0,7.5,,0.0,VALID,1.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID
+Onboarding,Reliability ,MTTR (Sev 1),Datadog,time,lower_better,6.0,12.0,9.0,hours,,NA,,NA,,NA,,NA,1.0,VALID,,NA,,NA,,NA,,NA
+Onboarding,Quality,Dispositioned PDR Bugs - Created,JIRA,count,lower_better,10.0,25.0,17.5,/,23.0,VALID,15.0,VALID,11.0,VALID,9.0,VALID,4.0,VALID,3.0,VALID,4.0,VALID,9.0,VALID,1.0,VALID
+Onboarding,Quality,Dispositioned PDR Bugs - Resolved,JIRA,%,higher_better,10.0,25.0,17.5,/,13.0,VALID,7.0,VALID,9.0,VALID,10.0,VALID,6.0,VALID,7.0,VALID,10.0,VALID,6.0,VALID,,NA
+Onboarding,Quality,Change Failure Rate,TBD,%,lower_better,20.0,30.0,25.0,%,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Onboarding,Quality,Code Coverage %,TBD,%,higher_better,60.0,75.0,67.5,%,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Onboarding,Quality,Defect Density,TBD,%,lower_better,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Onboarding,Quality,Defect Escape Rate,TBD,%,lower_better,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Onboarding,Delivery & Commitments ,Commitment %,JIRA,%,higher_better,80.0,90.0,85.0,%,0.0,VALID,16.7,VALID,85.7,VALID,40.0,VALID,60.0,VALID,100.0,VALID,0.0,VALID,50.0,VALID,100.0,VALID
+Onboarding,Delivery & Commitments ,Investment Allocations - R,Jellyfish,%,higher_better,40.0,55.0,47.5,%,85.0,VALID,76.0,VALID,88.0,VALID,67.0,VALID,63.0,VALID,56.0,VALID,71.0,VALID,78.0,VALID,67.0,VALID
+Onboarding,Delivery & Commitments ,Investment Allocations - T,Jellyfish,%,higher_better,5.0,15.0,10.0,%,9.0,VALID,9.0,VALID,10.0,VALID,22.0,VALID,17.0,VALID,19.0,VALID,14.0,VALID,4.0,VALID,18.0,VALID
+Onboarding,Delivery & Commitments ,Investment Allocations - M,Jellyfish,%,higher_better,30.0,40.0,35.0,%,6.0,VALID,15.0,VALID,2.0,VALID,11.0,VALID,20.0,VALID,25.0,VALID,15.0,VALID,18.0,VALID,15.0,VALID
+Onboarding,Delivery & Commitments ,Investment Allocations - 0,Jellyfish,%,higher_better,,,,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID
+Onboarding,Delivery & Commitments ,Deployment Frequency,TBD,count,context_dependent,1.0,2.0,1.5,week,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Onboarding,Delivery & Commitments ,Lead Time for Changes,TBD,time,lower_better,1.0,3.0,2.0,days,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Onboarding,Sentiment & Team Health,Developer Satisfaction,Jellyfish,count,context_dependent,70.0,77.0,73.5,,,NA,50.0,VALID,54.0,VALID,,NA,,NA,,NA,,NA,,NA,,NA
+Onboarding,Sentiment & Team Health,Quality of Meetings,Jellyfish,count,context_dependent,,,,,,NA,39.0,VALID,54.0,VALID,,NA,,NA,,NA,,NA,,NA,,NA
+Onboarding,Sentiment & Team Health,Perceived Productivity ,Jellyfish,count,context_dependent,65.0,75.0,70.0,,,NA,50.0,VALID,67.0,VALID,,NA,,NA,,NA,,NA,,NA,,NA
+Onboarding,Sentiment & Team Health,Ease of Delivery ,Jellyfish,count,context_dependent,70.0,80.0,75.0,,,NA,42.0,VALID,33.0,VALID,,NA,,NA,,NA,,NA,,NA,,NA
+Onboarding,Sentiment & Team Health,On-all Load (hrs/month) ,TBD,count,context_dependent,20.0,30.0,25.0,hours,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Onboarding,Sentiment & Team Health,Regrettable Attrition,TBD,%,lower_better,,,,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID
+Onboarding,Quality ,PR Review Velocity - X / Wk ,Jellyfish,count,context_dependent,,,,,35.0,VALID,23.0,VALID,34.0,VALID,33.0,VALID,22.0,VALID,26.0,VALID,29.0,VALID,43.0,VALID,51.0,VALID
+Onboarding,Quality ,PR Review Velocity - X / FTE Wk,Jellyfish,count,context_dependent,,,,,3.73,VALID,2.96,VALID,3.64,VALID,3.85,VALID,2.69,VALID,2.8,VALID,2.73,VALID,4.47,VALID,5.26,VALID
+Onboarding,Quality ,PRS Merged - X/Wk,Jellyfish,count,higher_better,,,,,49.0,VALID,24.0,VALID,37.5,VALID,35.0,VALID,31.0,VALID,26.0,VALID,32.0,VALID,43.0,VALID,50.0,VALID
+Onboarding,Quality ,PRS Merged -  X/FTE Wk,Jellyfish,count,higher_better,,,,,4.72,VALID,2.76,VALID,3.67,VALID,3.99,VALID,2.64,VALID,2.97,VALID,2.93,VALID,4.1,VALID,5.06,VALID
+Onboarding,Quality ,PR Comments - X/Wk,Jellyfish,count,context_dependent,,,,,2.0,VALID,1.0,VALID,5.0,VALID,5.0,VALID,6.0,VALID,10.0,VALID,4.0,VALID,12.0,VALID,9.0,VALID
+Onboarding,Quality ,PR Comments - X/FTE Wk,Jellyfish,count,context_dependent,,,,,0.15,VALID,0.07,VALID,0.48,VALID,0.41,VALID,0.42,VALID,0.98,VALID,0.5,VALID,0.9,VALID,0.82,VALID
+Onboarding,,Action Plan 1,,count,context_dependent,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,9.0,NARRATIVE,,NA
+Onboarding,,Action Plan 2,,count,context_dependent,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,89.7,NARRATIVE,,NA
+Onboarding,,Action Plan 3,,count,context_dependent,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recruiting Modernization,Productivity and Capacity,Sprint Predictability ,Jellyfish,%,higher_better,80.0,85.0,82.5,%,,X_MARKER,44.6,VALID,34.7,VALID,15.5,VALID,52.7,VALID,96.3,VALID,78.9,VALID,100.0,VALID,,NA
+Recruiting Modernization,Productivity and Capacity,Cycle Time (Days) ,Jellyfish,time,lower_better,5.0,8.0,6.5,days,,X_MARKER,3.08,VALID,26.31,VALID,4.0,VALID,6.74,VALID,4.45,VALID,4.37,VALID,2.31,VALID,,NA
+Recruiting Modernization,Productivity and Capacity,Unplanned work %,Jellyfish,%,lower_better,30.0,40.0,35.0,%,,X_MARKER,54.0,VALID,25.0,VALID,13.0,VALID,2.0,VALID,9.0,VALID,38.0,VALID,36.0,VALID,,NA
+Recruiting Modernization,Productivity and Capacity,Wasted Effort %,Jellyfish,%,lower_better,5.0,12.0,8.5,%,,X_MARKER,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Recruiting Modernization,Reliability ,Severity 1 Incidents,Datadog,count,lower_better,0.0,1.0,0.5,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Recruiting Modernization,Reliability ,Severity 2 Incidents,Datadog,count,lower_better,1.0,3.0,2.0,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Recruiting Modernization,Reliability ,Severity 3 Incidents,Datadog,count,lower_better,5.0,10.0,7.5,,0.0,VALID,1.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,1.0,VALID,,NA
+Recruiting Modernization,Reliability ,MTTR (Sev 1),Datadog,time,lower_better,6.0,12.0,9.0,hours,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recruiting Modernization,Quality,Dispositioned PDR Bugs - Created,JIRA,count,lower_better,10.0,25.0,17.5,/,18.0,VALID,3.0,VALID,10.0,VALID,3.0,VALID,3.0,VALID,10.0,VALID,4.0,VALID,12.0,VALID,,NA
+Recruiting Modernization,Quality,Dispositioned PDR Bugs - Resolved,JIRA,%,higher_better,10.0,25.0,17.5,/,14.0,VALID,4.0,VALID,4.0,VALID,5.0,VALID,3.0,VALID,6.0,VALID,9.0,VALID,7.0,VALID,,NA
+Recruiting Modernization,Quality,Change Failure Rate,TBD,%,lower_better,20.0,30.0,25.0,%,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recruiting Modernization,Quality,Code Coverage %,TBD,%,higher_better,60.0,75.0,67.5,%,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recruiting Modernization,Quality,Defect Density,TBD,%,lower_better,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recruiting Modernization,Quality,Defect Escape Rate,TBD,%,lower_better,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recruiting Modernization,Delivery & Commitments ,Commitment %,JIRA,%,higher_better,80.0,90.0,85.0,%,0.0,VALID,16.7,VALID,66.7,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,33.0,VALID,,NA
+Recruiting Modernization,Delivery & Commitments ,Investment Allocations - R,Jellyfish,%,higher_better,40.0,55.0,47.5,%,37.0,VALID,44.0,VALID,56.0,VALID,86.0,VALID,96.0,VALID,35.0,VALID,0.0,VALID,2.0,VALID,,NA
+Recruiting Modernization,Delivery & Commitments ,Investment Allocations - T,Jellyfish,%,higher_better,5.0,15.0,10.0,%,7.0,VALID,2.0,VALID,24.0,VALID,14.0,VALID,0.0,VALID,40.0,VALID,50.0,VALID,58.0,VALID,,NA
+Recruiting Modernization,Delivery & Commitments ,Investment Allocations - M,Jellyfish,%,higher_better,30.0,40.0,35.0,%,56.0,VALID,48.0,VALID,20.0,VALID,0.0,VALID,4.0,VALID,25.0,VALID,50.0,VALID,40.0,VALID,,NA
+Recruiting Modernization,Delivery & Commitments ,Investment Allocations - 0,Jellyfish,%,higher_better,,,,,0.0,VALID,6.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Recruiting Modernization,Delivery & Commitments ,Deployment Frequency,TBD,count,context_dependent,1.0,2.0,1.5,week,,NA,,NA,2.0,VALID,2.0,VALID,2.0,VALID,2.0,VALID,2.0,VALID,2.0,VALID,,NA
+Recruiting Modernization,Delivery & Commitments ,Lead Time for Changes,TBD,time,lower_better,1.0,3.0,2.0,days,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recruiting Modernization,Sentiment & Team Health,Developer Satisfaction,Jellyfish,count,context_dependent,70.0,77.0,73.5,,70.0,VALID,70.0,VALID,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recruiting Modernization,Sentiment & Team Health,Quality of Meetings,Jellyfish,count,context_dependent,,,,,,X_MARKER,,X_MARKER,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recruiting Modernization,Sentiment & Team Health,Perceived Productivity ,Jellyfish,count,context_dependent,65.0,75.0,70.0,,67.0,VALID,67.0,VALID,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recruiting Modernization,Sentiment & Team Health,Ease of Delivery ,Jellyfish,count,context_dependent,70.0,80.0,75.0,,69.0,VALID,69.0,VALID,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recruiting Modernization,Sentiment & Team Health,On-all Load (hrs/month) ,TBD,count,context_dependent,20.0,30.0,25.0,hours,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recruiting Modernization,Sentiment & Team Health,Regrettable Attrition,TBD,%,lower_better,,,,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Recruiting Modernization,Quality ,PR Review Velocity - X / Wk ,Jellyfish,count,context_dependent,,,,,,X_MARKER,15.0,VALID,12.5,VALID,7.0,VALID,6.0,VALID,11.0,VALID,6.0,VALID,8.0,VALID,,NA
+Recruiting Modernization,Quality ,PR Review Velocity - X / FTE Wk,Jellyfish,count,context_dependent,,,,,,X_MARKER,2.33,VALID,1.98,VALID,1.6,VALID,1.27,VALID,1.73,VALID,0.98,VALID,3.19,VALID,,NA
+Recruiting Modernization,Quality ,PRS Merged - X/Wk,Jellyfish,count,higher_better,,,,,,X_MARKER,14.0,VALID,13.0,VALID,6.0,VALID,6.0,VALID,12.5,VALID,12.0,VALID,11.0,VALID,,NA
+Recruiting Modernization,Quality ,PRS Merged -  X/FTE Wk,Jellyfish,count,higher_better,,,,,,X_MARKER,2.24,VALID,2.0,VALID,1.49,VALID,1.39,VALID,2.18,VALID,1.14,VALID,3.67,VALID,,NA
+Recruiting Modernization,Quality ,PR Comments - X/Wk,Jellyfish,count,context_dependent,,,,,,X_MARKER,14.0,VALID,13.0,VALID,22.0,VALID,12.0,VALID,8.5,VALID,5.0,VALID,5.0,VALID,,NA
+Recruiting Modernization,Quality ,PR Comments - X/FTE Wk,Jellyfish,count,context_dependent,,,,,,X_MARKER,1.95,VALID,2.3,VALID,5.48,VALID,1.97,VALID,1.62,VALID,1.12,VALID,1.42,VALID,,NA
+Recruiting Innovation,Productivity and Capacity,Sprint Predictability ,Jellyfish,%,higher_better,80.0,85.0,82.5,%,,NA,93.2,VALID,48.5,VALID,53.0,VALID,80.0,VALID,70.6,VALID,86.0,VALID,83.8,VALID,,NA
+Recruiting Innovation,Productivity and Capacity,Cycle Time (Days) ,Jellyfish,time,lower_better,5.0,8.0,6.5,days,0.04,VALID,10.98,VALID,6.99,VALID,3.91,VALID,4.03,VALID,6.72,VALID,4.29,VALID,3.95,VALID,,NA
+Recruiting Innovation,Productivity and Capacity,Unplanned work %,Jellyfish,%,lower_better,30.0,40.0,35.0,%,69.0,VALID,60.0,VALID,57.0,VALID,23.0,VALID,46.0,VALID,4.0,VALID,1.0,VALID,0.8,VALID,,NA
+Recruiting Innovation,Productivity and Capacity,Wasted Effort %,Jellyfish,%,lower_better,5.0,12.0,8.5,%,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Recruiting Innovation,Reliability ,Severity 1 Incidents,Datadog,count,lower_better,0.0,1.0,0.5,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Recruiting Innovation,Reliability ,Severity 2 Incidents,Datadog,count,lower_better,1.0,3.0,2.0,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Recruiting Innovation,Reliability ,Severity 3 Incidents,Datadog,count,lower_better,5.0,10.0,7.5,,0.0,VALID,1.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,1.0,VALID,,NA
+Recruiting Innovation,Reliability ,MTTR (Sev 1),Datadog,time,lower_better,6.0,12.0,9.0,hours,,NA,,NA,,NA,,NA,,NA,,NA,0.0,VALID,,NA,,NA
+Recruiting Innovation,Quality,Dispositioned PDR Bugs - Created,JIRA,count,lower_better,10.0,25.0,17.5,/,18.0,VALID,3.0,VALID,10.0,VALID,2.0,VALID,2.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Recruiting Innovation,Quality,Dispositioned PDR Bugs - Resolved,JIRA,%,higher_better,10.0,25.0,17.5,/,14.0,VALID,4.0,VALID,4.0,VALID,4.0,VALID,2.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Recruiting Innovation,Quality,Change Failure Rate,TBD,%,lower_better,20.0,30.0,25.0,%,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recruiting Innovation,Quality,Code Coverage %,TBD,%,higher_better,60.0,75.0,67.5,%,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recruiting Innovation,Quality,Defect Density,TBD,%,lower_better,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recruiting Innovation,Quality,Defect Escape Rate,TBD,%,lower_better,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recruiting Innovation,Delivery & Commitments ,Commitment %,JIRA,%,higher_better,80.0,90.0,85.0,%,0.0,VALID,16.7,VALID,66.7,VALID,0.0,VALID,66.7,VALID,80.0,VALID,0.0,VALID,33.0,VALID,,NA
+Recruiting Innovation,Delivery & Commitments ,Investment Allocations - R,Jellyfish,%,higher_better,40.0,55.0,47.5,%,49.0,VALID,56.0,VALID,40.0,VALID,75.0,VALID,63.0,VALID,90.0,VALID,100.0,VALID,95.0,VALID,,NA
+Recruiting Innovation,Delivery & Commitments ,Investment Allocations - T,Jellyfish,%,higher_better,5.0,15.0,10.0,%,0.0,VALID,2.0,VALID,6.0,VALID,6.0,VALID,5.0,VALID,4.0,VALID,0.0,VALID,0.0,VALID,,NA
+Recruiting Innovation,Delivery & Commitments ,Investment Allocations - M,Jellyfish,%,higher_better,30.0,40.0,35.0,%,51.0,VALID,42.0,VALID,53.0,VALID,19.0,VALID,32.0,VALID,6.0,VALID,0.0,VALID,5.0,VALID,,NA
+Recruiting Innovation,Delivery & Commitments ,Investment Allocations - 0,Jellyfish,%,higher_better,,,,,0.0,VALID,0.0,VALID,1.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Recruiting Innovation,Delivery & Commitments ,Deployment Frequency,TBD,count,context_dependent,1.0,2.0,1.5,week,,NA,,NA,2.0,VALID,2.0,VALID,2.0,VALID,2.0,VALID,2.0,VALID,2.0,VALID,,NA
+Recruiting Innovation,Delivery & Commitments ,Lead Time for Changes,TBD,time,lower_better,1.0,3.0,2.0,days,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recruiting Innovation,Sentiment & Team Health,Developer Satisfaction,Jellyfish,count,context_dependent,70.0,77.0,73.5,,61.0,VALID,61.0,VALID,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recruiting Innovation,Sentiment & Team Health,Quality of Meetings,Jellyfish,count,context_dependent,,,,,,X_MARKER,,X_MARKER,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recruiting Innovation,Sentiment & Team Health,Perceived Productivity ,Jellyfish,count,context_dependent,65.0,75.0,70.0,,67.0,VALID,67.0,VALID,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recruiting Innovation,Sentiment & Team Health,Ease of Delivery ,Jellyfish,count,context_dependent,70.0,80.0,75.0,,69.0,VALID,69.0,VALID,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recruiting Innovation,Sentiment & Team Health,On-all Load (hrs/month) ,TBD,count,context_dependent,20.0,30.0,25.0,hours,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Recruiting Innovation,Sentiment & Team Health,Regrettable Attrition,TBD,%,lower_better,,,,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Recruiting Innovation,Quality ,PR Review Velocity - X / Wk ,Jellyfish,count,context_dependent,,,,,0.0,VALID,4.0,VALID,7.5,VALID,14.0,VALID,6.0,VALID,9.5,VALID,20.0,VALID,24.0,VALID,,NA
+Recruiting Innovation,Quality ,PR Review Velocity - X / FTE Wk,Jellyfish,count,context_dependent,,,,,0.0,VALID,0.85,VALID,1.09,VALID,2.59,VALID,0.85,VALID,1.78,VALID,3.19,VALID,4.77,VALID,,NA
+Recruiting Innovation,Quality ,PRS Merged - X/Wk,Jellyfish,count,higher_better,,,,,1.0,VALID,7.0,VALID,10.0,VALID,19.0,VALID,12.0,VALID,9.5,VALID,19.0,VALID,23.0,VALID,,NA
+Recruiting Innovation,Quality ,PRS Merged -  X/FTE Wk,Jellyfish,count,higher_better,,,,,0.3,VALID,1.89,VALID,1.58,VALID,3.63,VALID,1.2,VALID,1.8,VALID,3.34,VALID,4.64,VALID,,NA
+Recruiting Innovation,Quality ,PR Comments - X/Wk,Jellyfish,count,context_dependent,,,,,0.0,VALID,0.0,VALID,5.0,VALID,5.0,VALID,4.0,VALID,16.5,VALID,19.0,VALID,27.0,VALID,,NA
+Recruiting Innovation,Quality ,PR Comments - X/FTE Wk,Jellyfish,count,context_dependent,,,,,0.0,VALID,0.0,VALID,0.98,VALID,1.09,VALID,0.44,VALID,4.14,VALID,2.99,VALID,3.44,VALID,,NA
+Recruiting Combined,,Action Plan 1,,count,context_dependent,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,80.0,NARRATIVE,,NA
+Recruiting Combined,,Action Plan 2,,count,context_dependent,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,8.0,NARRATIVE,,NA
+Recruiting Combined,,Action Plan 3,,count,context_dependent,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Learning Management,Productivity and Capacity,Sprint Predictability ,Jellyfish,%,higher_better,80.0,85.0,82.5,%,0.618,VALID,0.56,VALID,0.638,VALID,0.807,VALID,0.687,VALID,0.674,VALID,0.72,VALID,0.653,VALID,0.712,VALID
+Learning Management,Productivity and Capacity,Cycle Time (Days) ,Jellyfish,time,lower_better,5.0,8.0,6.5,days,5.14,VALID,5.71,VALID,5.98,VALID,5.12,VALID,5.31,VALID,4.51,VALID,6.96,VALID,4.215,VALID,4.56,VALID
+Learning Management,Productivity and Capacity,Unplanned work %,Jellyfish,%,lower_better,30.0,40.0,35.0,%,0.24,VALID,0.22,VALID,0.34,VALID,0.64,VALID,0.43,VALID,0.3,VALID,0.03,VALID,0.015,VALID,0.0,VALID
+Learning Management,Productivity and Capacity,Wasted Effort %,Jellyfish,%,lower_better,5.0,12.0,8.5,%,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID
+Learning Management,Reliability ,Severity 1 Incidents,Datadog,count,lower_better,0.0,1.0,0.5,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID
+Learning Management,Reliability ,Severity 2 Incidents,Datadog,count,lower_better,1.0,3.0,2.0,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID
+Learning Management,Reliability ,Severity 3 Incidents,Datadog,count,lower_better,5.0,10.0,7.5,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID
+Learning Management,Reliability ,MTTR (Sev 1),Datadog,time,lower_better,6.0,12.0,9.0,hours,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Learning Management,Quality,Dispositioned PDR Bugs - Created,JIRA,count,lower_better,10.0,25.0,17.5,/,2.0,VALID,4.0,VALID,3.0,VALID,1.0,VALID,2.0,VALID,3.0,VALID,3.0,VALID,3.0,VALID,5.0,VALID
+Learning Management,Quality,Dispositioned PDR Bugs - Resolved,JIRA,%,higher_better,10.0,25.0,17.5,/,1.0,VALID,4.0,VALID,3.0,VALID,0.0,VALID,3.0,VALID,3.0,VALID,3.0,VALID,2.0,VALID,2.0,VALID
+Learning Management,Quality,Change Failure Rate,TBD,%,lower_better,20.0,30.0,25.0,%,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Learning Management,Quality,Code Coverage %,TBD,%,higher_better,60.0,75.0,67.5,%,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Learning Management,Quality,Defect Density,TBD,%,lower_better,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Learning Management,Quality,Defect Escape Rate,TBD,%,lower_better,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Learning Management,Delivery & Commitments ,Commitment %,JIRA,%,higher_better,80.0,90.0,85.0,%,100.0,VALID,100.0,VALID,100.0,VALID,100.0,VALID,50.0,VALID,100.0,VALID,0.0,VALID,0.0,VALID,1.0,VALID
+Learning Management,Delivery & Commitments ,Investment Allocations - R,Jellyfish,%,higher_better,40.0,55.0,47.5,%,75.0,VALID,79.0,VALID,77.0,VALID,80.0,VALID,76.0,VALID,62.0,VALID,46.0,VALID,61.0,VALID,56.0,VALID
+Learning Management,Delivery & Commitments ,Investment Allocations - T,Jellyfish,%,higher_better,5.0,15.0,10.0,%,23.0,VALID,17.0,VALID,21.0,VALID,18.0,VALID,17.0,VALID,38.0,VALID,50.0,VALID,39.0,VALID,44.0,VALID
+Learning Management,Delivery & Commitments ,Investment Allocations - M,Jellyfish,%,higher_better,30.0,40.0,35.0,%,2.0,VALID,4.0,VALID,2.0,VALID,2.0,VALID,7.0,VALID,0.0,VALID,4.0,VALID,0.0,VALID,0.0,VALID
+Learning Management,Delivery & Commitments ,Investment Allocations - 0,Jellyfish,%,higher_better,,,,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID
+Learning Management,Delivery & Commitments ,Deployment Frequency,TBD,count,context_dependent,1.0,2.0,1.5,week,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Learning Management,Delivery & Commitments ,Lead Time for Changes,TBD,time,lower_better,1.0,3.0,2.0,days,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Learning Management,Sentiment & Team Health,Developer Satisfaction,Jellyfish,count,context_dependent,70.0,77.0,73.5,,85.0,VALID,85.0,VALID,79.0,VALID,79.0,VALID,79.0,VALID,67.0,VALID,67.0,VALID,67.0,VALID,,NA
+Learning Management,Sentiment & Team Health,Quality of Meetings,Jellyfish,count,context_dependent,,,,,71.0,VALID,71.0,VALID,62.0,VALID,62.0,VALID,62.0,VALID,50.0,VALID,50.0,VALID,50.0,VALID,,NA
+Learning Management,Sentiment & Team Health,Perceived Productivity ,Jellyfish,count,context_dependent,65.0,75.0,70.0,,79.0,VALID,79.0,VALID,75.0,VALID,75.0,VALID,75.0,VALID,67.0,VALID,67.0,VALID,67.0,VALID,,NA
+Learning Management,Sentiment & Team Health,Ease of Delivery ,Jellyfish,count,context_dependent,70.0,80.0,75.0,,83.0,VALID,83.0,VALID,88.0,VALID,88.0,VALID,88.0,VALID,92.0,VALID,92.0,VALID,92.0,VALID,,NA
+Learning Management,Sentiment & Team Health,On-all Load (hrs/month) ,TBD,count,context_dependent,20.0,30.0,25.0,hours,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Learning Management,Sentiment & Team Health,Regrettable Attrition,TBD,%,lower_better,,,,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID
+Learning Management,Quality ,PR Review Velocity - X / Wk ,Jellyfish,count,context_dependent,,,,,35.0,VALID,31.0,VALID,36.0,VALID,26.0,VALID,17.0,VALID,20.0,VALID,21.0,VALID,37.0,VALID,23.0,VALID
+Learning Management,Quality ,PR Review Velocity - X / FTE Wk,Jellyfish,count,context_dependent,,,,,3.5,VALID,3.1,VALID,3.6,VALID,2.6,VALID,1.7,VALID,2.0,VALID,2.1,VALID,3.7,VALID,2.3,VALID
+Learning Management,Quality ,PRS Merged - X/Wk,Jellyfish,count,higher_better,,,,,34.0,VALID,33.0,VALID,39.0,VALID,30.0,VALID,22.0,VALID,21.0,VALID,23.0,VALID,43.0,VALID,25.0,VALID
+Learning Management,Quality ,PRS Merged -  X/FTE Wk,Jellyfish,count,higher_better,,,,,3.3,VALID,3.3,VALID,3.9,VALID,3.0,VALID,2.2,VALID,2.1,VALID,2.3,VALID,4.3,VALID,2.5,VALID
+Learning Management,Quality ,PR Comments - X/Wk,Jellyfish,count,context_dependent,,,,,4.0,VALID,7.0,VALID,4.0,VALID,4.0,VALID,5.0,VALID,12.0,VALID,10.0,VALID,17.0,VALID,21.0,VALID
+Learning Management,Quality ,PR Comments - X/FTE Wk,Jellyfish,count,context_dependent,,,,,0.4,VALID,0.7,VALID,0.4,VALID,0.4,VALID,0.5,VALID,1.2,VALID,1.0,VALID,1.7,VALID,2.1,VALID
+Learning Management,,Action Plan 1,,count,context_dependent,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,10.0,NARRATIVE,3.0,NARRATIVE
+Learning Management,,Action Plan 2,,count,context_dependent,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,5.0,NARRATIVE,5.0,NARRATIVE
+Learning Management,,Action Plan 3,,count,context_dependent,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Employee Voice,Productivity and Capacity,Sprint Predictability ,Jellyfish,%,higher_better,80.0,85.0,82.5,%,0.372,VALID,0.48,VALID,0.464,VALID,0.781,VALID,0.676,VALID,0.403,VALID,0.785,VALID,0.784,VALID,,NA
+Employee Voice,Productivity and Capacity,Cycle Time (Days) ,Jellyfish,time,lower_better,5.0,8.0,6.5,days,12.55,VALID,11.81,VALID,7.13,VALID,6.91,VALID,7.78,VALID,7.76,VALID,5.21,VALID,9.39,VALID,,NA
+Employee Voice,Productivity and Capacity,Unplanned work %,Jellyfish,%,lower_better,30.0,40.0,35.0,%,0.48,VALID,0.43,VALID,0.28,VALID,0.16,VALID,0.45,VALID,0.41,VALID,0.35,VALID,0.08,VALID,,NA
+Employee Voice,Productivity and Capacity,Wasted Effort %,Jellyfish,%,lower_better,5.0,12.0,8.5,%,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Employee Voice,Reliability ,Severity 1 Incidents,Datadog,count,lower_better,0.0,1.0,0.5,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Employee Voice,Reliability ,Severity 2 Incidents,Datadog,count,lower_better,1.0,3.0,2.0,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Employee Voice,Reliability ,Severity 3 Incidents,Datadog,count,lower_better,5.0,10.0,7.5,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Employee Voice,Reliability ,MTTR (Sev 1),Datadog,time,lower_better,6.0,12.0,9.0,hours,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Employee Voice,Quality,Dispositioned PDR Bugs - Created,JIRA,count,lower_better,10.0,25.0,17.5,/,4.0,VALID,10.0,VALID,8.0,VALID,11.0,VALID,4.0,VALID,0.0,VALID,10.0,VALID,1.0,VALID,,NA
+Employee Voice,Quality,Dispositioned PDR Bugs - Resolved,JIRA,%,higher_better,10.0,25.0,17.5,/,8.0,VALID,10.0,VALID,8.0,VALID,1.0,VALID,1.0,VALID,5.0,VALID,14.0,VALID,4.0,VALID,,NA
+Employee Voice,Quality,Change Failure Rate,TBD,%,lower_better,20.0,30.0,25.0,%,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Employee Voice,Quality,Code Coverage %,TBD,%,higher_better,60.0,75.0,67.5,%,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Employee Voice,Quality,Defect Density,TBD,%,lower_better,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Employee Voice,Quality,Defect Escape Rate,TBD,%,lower_better,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Employee Voice,Delivery & Commitments ,Commitment %,JIRA,%,higher_better,80.0,90.0,85.0,%,0.0,VALID,1.0,VALID,1.0,VALID,0.0,VALID,0.5,VALID,1.0,VALID,0.0,VALID,1.0,VALID,,NA
+Employee Voice,Delivery & Commitments ,Investment Allocations - R,Jellyfish,%,higher_better,40.0,55.0,47.5,%,0.25,VALID,0.06,VALID,0.13,VALID,0.68,VALID,0.78,VALID,0.45,VALID,0.3,VALID,0.67,VALID,,NA
+Employee Voice,Delivery & Commitments ,Investment Allocations - T,Jellyfish,%,higher_better,5.0,15.0,10.0,%,0.41,VALID,0.6,VALID,0.59,VALID,0.27,VALID,0.16,VALID,0.33,VALID,0.24,VALID,0.16,VALID,,NA
+Employee Voice,Delivery & Commitments ,Investment Allocations - M,Jellyfish,%,higher_better,30.0,40.0,35.0,%,0.34,VALID,0.34,VALID,0.28,VALID,0.05,VALID,0.06,VALID,0.22,VALID,0.46,VALID,0.17,VALID,,NA
+Employee Voice,Delivery & Commitments ,Investment Allocations - 0,Jellyfish,%,higher_better,,,,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Employee Voice,Delivery & Commitments ,Deployment Frequency,TBD,count,context_dependent,1.0,2.0,1.5,week,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Employee Voice,Delivery & Commitments ,Lead Time for Changes,TBD,time,lower_better,1.0,3.0,2.0,days,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Employee Voice,Sentiment & Team Health,Developer Satisfaction,Jellyfish,count,context_dependent,70.0,77.0,73.5,,86.0,VALID,86.0,VALID,86.0,VALID,76.0,VALID,76.0,VALID,76.0,VALID,76.0,VALID,76.0,VALID,,NA
+Employee Voice,Sentiment & Team Health,Quality of Meetings,Jellyfish,count,context_dependent,,,,,72.0,VALID,72.0,VALID,72.0,VALID,70.0,VALID,70.0,VALID,70.0,VALID,70.0,VALID,70.0,VALID,,NA
+Employee Voice,Sentiment & Team Health,Perceived Productivity ,Jellyfish,count,context_dependent,65.0,75.0,70.0,,72.0,VALID,72.0,VALID,72.0,VALID,75.0,VALID,75.0,VALID,75.0,VALID,75.0,VALID,75.0,VALID,,NA
+Employee Voice,Sentiment & Team Health,Ease of Delivery ,Jellyfish,count,context_dependent,70.0,80.0,75.0,,62.0,VALID,62.0,VALID,62.0,VALID,57.0,VALID,57.0,VALID,57.0,VALID,57.0,VALID,57.0,VALID,,NA
+Employee Voice,Sentiment & Team Health,On-all Load (hrs/month) ,TBD,count,context_dependent,20.0,30.0,25.0,hours,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Employee Voice,Sentiment & Team Health,Regrettable Attrition,TBD,%,lower_better,,,,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Employee Voice,Quality ,PR Review Velocity - X / Wk ,Jellyfish,count,context_dependent,,,,,16.0,VALID,16.0,VALID,18.5,VALID,22.0,VALID,20.0,VALID,10.5,VALID,25.0,VALID,20.0,VALID,,NA
+Employee Voice,Quality ,PR Review Velocity - X / FTE Wk,Jellyfish,count,context_dependent,,,,,2.07,VALID,2.94,VALID,11.09,VALID,2.43,VALID,1.97,VALID,5.75,VALID,2.91,VALID,2.13,VALID,,NA
+Employee Voice,Quality ,PRS Merged - X/Wk,Jellyfish,count,higher_better,,,,,18.0,VALID,17.0,VALID,17.5,VALID,24.5,VALID,21.0,VALID,11.5,VALID,24.0,VALID,19.0,VALID,,NA
+Employee Voice,Quality ,PRS Merged -  X/FTE Wk,Jellyfish,count,higher_better,,,,,2.18,VALID,2.89,VALID,11.31,VALID,2.7,VALID,2.24,VALID,5.75,VALID,3.0,VALID,2.0,VALID,,NA
+Employee Voice,Quality ,PR Comments - X/Wk,Jellyfish,count,context_dependent,,,,,18.0,VALID,9.0,VALID,9.0,VALID,21.5,VALID,21.0,VALID,6.5,VALID,18.0,VALID,15.0,VALID,,NA
+Employee Voice,Quality ,PR Comments - X/FTE Wk,Jellyfish,count,context_dependent,,,,,3.74,VALID,2.5,VALID,10.76,VALID,2.05,VALID,1.81,VALID,3.37,VALID,2.29,VALID,2.63,VALID,,NA
+Employee Voice,,Notes/Comments/Actions,,count,context_dependent,,,,,,NA,,NA,3.0,VALID,,NA,,NA,,NA,,NA,,NA,,NA
+Employee Voice,,Action Plan 1,,count,context_dependent,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,1.0,NARRATIVE,,NA
+Employee Voice,,Action Plan 2,,count,context_dependent,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,1.0,NARRATIVE,,NA
+Employee Voice,,Action Plan 3,,count,context_dependent,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Performance Management,Productivity and Capacity,Sprint Predictability ,Jellyfish,%,higher_better,80.0,85.0,82.5,%,52.6,VALID,72.3,VALID,61.3,VALID,61.2,VALID,58.7,VALID,72.1,VALID,94.0,VALID,97.5,VALID,,NA
+Performance Management,Productivity and Capacity,Cycle Time (Days) ,Jellyfish,time,lower_better,5.0,8.0,6.5,days,4.58,VALID,3.74,VALID,4.88,VALID,1.08,VALID,,NA,7.22,VALID,7.03,VALID,4.99,VALID,,NA
+Performance Management,Productivity and Capacity,Unplanned work %,Jellyfish,%,lower_better,30.0,40.0,35.0,%,19.0,VALID,28.0,VALID,30.0,VALID,34.0,VALID,49.0,VALID,38.0,VALID,13.0,VALID,21.0,VALID,,NA
+Performance Management,Productivity and Capacity,Wasted Effort %,Jellyfish,%,lower_better,5.0,12.0,8.5,%,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Performance Management,Reliability ,Severity 1 Incidents,Datadog,count,lower_better,0.0,1.0,0.5,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Performance Management,Reliability ,Severity 2 Incidents,Datadog,count,lower_better,1.0,3.0,2.0,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Performance Management,Reliability ,Severity 3 Incidents,Datadog,count,lower_better,5.0,10.0,7.5,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,1.0,VALID,,NA
+Performance Management,Reliability ,MTTR (Sev 1),Datadog,time,lower_better,6.0,12.0,9.0,hours,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Performance Management,Quality,Dispositioned PDR Bugs - Created,JIRA,count,lower_better,10.0,25.0,17.5,/,4.0,VALID,3.0,VALID,3.0,VALID,8.0,VALID,11.0,VALID,10.0,VALID,6.0,VALID,16.0,VALID,,NA
+Performance Management,Quality,Dispositioned PDR Bugs - Resolved,JIRA,%,higher_better,10.0,25.0,17.5,/,8.0,VALID,2.0,VALID,7.0,VALID,1.0,VALID,4.0,VALID,5.0,VALID,3.0,VALID,5.0,VALID,,NA
+Performance Management,Quality,Change Failure Rate,TBD,%,lower_better,20.0,30.0,25.0,%,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Performance Management,Quality,Code Coverage %,TBD,%,higher_better,60.0,75.0,67.5,%,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Performance Management,Quality,Defect Density,TBD,%,lower_better,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Performance Management,Quality,Defect Escape Rate,TBD,%,lower_better,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Performance Management,Delivery & Commitments ,Commitment %,JIRA,%,higher_better,80.0,90.0,85.0,%,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,100.0,VALID,0.0,VALID,0.0,VALID,,NA
+Performance Management,Delivery & Commitments ,Investment Allocations - R,Jellyfish,%,higher_better,40.0,55.0,47.5,%,25.0,VALID,59.0,VALID,36.0,VALID,26.0,VALID,6.0,VALID,27.0,VALID,42.0,VALID,39.0,VALID,,NA
+Performance Management,Delivery & Commitments ,Investment Allocations - T,Jellyfish,%,higher_better,5.0,15.0,10.0,%,2.0,VALID,10.0,VALID,4.0,VALID,6.0,VALID,3.0,VALID,0.0,VALID,3.0,VALID,4.0,VALID,,NA
+Performance Management,Delivery & Commitments ,Investment Allocations - M,Jellyfish,%,higher_better,30.0,40.0,35.0,%,73.0,VALID,31.0,VALID,60.0,VALID,67.0,VALID,91.0,VALID,73.0,VALID,55.0,VALID,57.0,VALID,,NA
+Performance Management,Delivery & Commitments ,Investment Allocations - 0,Jellyfish,%,higher_better,,,,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA,,NA,,NA,,NA
+Performance Management,Delivery & Commitments ,Deployment Frequency,TBD,count,context_dependent,1.0,2.0,1.5,week,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Performance Management,Delivery & Commitments ,Lead Time for Changes,TBD,time,lower_better,1.0,3.0,2.0,days,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Performance Management,Sentiment & Team Health,Developer Satisfaction,Jellyfish,count,context_dependent,70.0,77.0,73.5,,67.0,VALID,67.0,VALID,71.0,VALID,71.0,VALID,71.0,VALID,,NA,,NA,,NA,,NA
+Performance Management,Sentiment & Team Health,Quality of Meetings,Jellyfish,count,context_dependent,,,,,47.0,VALID,47.0,VALID,42.0,VALID,42.0,VALID,42.0,VALID,,NA,,NA,,NA,,NA
+Performance Management,Sentiment & Team Health,Perceived Productivity ,Jellyfish,count,context_dependent,65.0,75.0,70.0,,67.0,VALID,67.0,VALID,58.0,VALID,58.0,VALID,58.0,VALID,,NA,,NA,,NA,,NA
+Performance Management,Sentiment & Team Health,Ease of Delivery ,Jellyfish,count,context_dependent,70.0,80.0,75.0,,46.0,VALID,46.0,VALID,62.0,VALID,62.0,VALID,62.0,VALID,,NA,,NA,,NA,,NA
+Performance Management,Sentiment & Team Health,On-all Load (hrs/month) ,TBD,count,context_dependent,20.0,30.0,25.0,hours,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Performance Management,Sentiment & Team Health,Regrettable Attrition,TBD,%,lower_better,,,,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Performance Management,Quality ,PR Review Velocity - X / Wk ,Jellyfish,count,context_dependent,,,,,10.0,VALID,11.0,VALID,8.0,VALID,9.0,VALID,8.0,VALID,6.0,VALID,5.0,VALID,13.0,VALID,,NA
+Performance Management,Quality ,PR Review Velocity - X / FTE Wk,Jellyfish,count,context_dependent,,,,,1.6,VALID,1.85,VALID,1.33,VALID,1.77,VALID,1.14,VALID,1.1,VALID,1.1,VALID,3.43,VALID,,NA
+Performance Management,Quality ,PRS Merged - X/Wk,Jellyfish,count,higher_better,,,,,11.0,VALID,10.0,VALID,4.5,VALID,10.0,VALID,9.0,VALID,8.0,VALID,5.0,VALID,11.0,VALID,,NA
+Performance Management,Quality ,PRS Merged -  X/FTE Wk,Jellyfish,count,higher_better,,,,,2.15,VALID,1.94,VALID,0.79,VALID,1.55,VALID,1.4,VALID,1.27,VALID,0.83,VALID,3.04,VALID,,NA
+Performance Management,Quality ,PR Comments - X/Wk,Jellyfish,count,context_dependent,,,,,4.0,VALID,2.0,VALID,6.5,VALID,4.0,VALID,4.0,VALID,3.0,VALID,1.0,VALID,11.0,VALID,,NA
+Performance Management,Quality ,PR Comments - X/FTE Wk,Jellyfish,count,context_dependent,,,,,1.16,VALID,0.82,VALID,1.08,VALID,0.78,VALID,0.49,VALID,0.88,VALID,0.17,VALID,2.28,VALID,,NA
+Performance Management,,Action Plan 1,,count,context_dependent,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,10.0,NARRATIVE,,NA
+Performance Management,,Action Plan 2,,count,context_dependent,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,16.0,NARRATIVE,,NA
+Performance Management,,Action Plan 3,,count,context_dependent,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Compensation Management,Productivity and Capacity,Sprint Predictability ,Jellyfish,%,higher_better,80.0,85.0,82.5,%,1.0,VALID,0.845,VALID,0.955,VALID,0.882,VALID,0.649,VALID,0.747,VALID,0.908,VALID,0.753,VALID,,NA
+Compensation Management,Productivity and Capacity,Cycle Time (Days) ,Jellyfish,time,lower_better,5.0,8.0,6.5,days,1.87,VALID,2.5,VALID,1.83,VALID,1.81,VALID,3.05,VALID,2.81,VALID,3.42,VALID,2.89,VALID,,NA
+Compensation Management,Productivity and Capacity,Unplanned work %,Jellyfish,%,lower_better,30.0,40.0,35.0,%,0.16,VALID,0.22,VALID,0.15,VALID,0.04,VALID,0.01,VALID,0.003,VALID,0.03,VALID,0.05,VALID,,NA
+Compensation Management,Productivity and Capacity,Wasted Effort %,Jellyfish,%,lower_better,5.0,12.0,8.5,%,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Compensation Management,Reliability ,Severity 1 Incidents,Datadog,count,lower_better,0.0,1.0,0.5,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Compensation Management,Reliability ,Severity 2 Incidents,Datadog,count,lower_better,1.0,3.0,2.0,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Compensation Management,Reliability ,Severity 3 Incidents,Datadog,count,lower_better,5.0,10.0,7.5,,0.0,VALID,0.0,VALID,0.0,VALID,1.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,,NA
+Compensation Management,Reliability ,MTTR (Sev 1),Datadog,time,lower_better,6.0,12.0,9.0,hours,,NA,,NA,,NA,3.0,VALID,,NA,,NA,,NA,,NA,,NA
+Compensation Management,Quality,Dispositioned PDR Bugs - Created,JIRA,count,lower_better,10.0,25.0,17.5,/,7.0,VALID,0.0,VALID,2.0,VALID,1.0,VALID,1.0,VALID,2.0,VALID,4.0,VALID,7.0,VALID,,NA
+Compensation Management,Quality,Dispositioned PDR Bugs - Resolved,JIRA,%,higher_better,10.0,25.0,17.5,/,9.0,VALID,1.0,VALID,1.0,VALID,4.0,VALID,0.0,VALID,3.0,VALID,2.0,VALID,6.0,VALID,,NA
+Compensation Management,Quality,Change Failure Rate,TBD,%,lower_better,20.0,30.0,25.0,%,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Compensation Management,Quality,Code Coverage %,TBD,%,higher_better,60.0,75.0,67.5,%,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Compensation Management,Quality,Defect Density,TBD,%,lower_better,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Compensation Management,Quality,Defect Escape Rate,TBD,%,lower_better,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Compensation Management,Delivery & Commitments ,Commitment %,JIRA,%,higher_better,80.0,90.0,85.0,%,0.0,VALID,0.111,VALID,1.0,VALID,0.167,VALID,0.33,VALID,1.0,VALID,0.222,VALID,0.444,VALID,,NA
+Compensation Management,Delivery & Commitments ,Investment Allocations - R,Jellyfish,%,higher_better,40.0,55.0,47.5,%,0.39,VALID,0.67,VALID,0.77,VALID,0.69,VALID,0.71,VALID,0.94,VALID,0.94,VALID,0.68,VALID,,NA
+Compensation Management,Delivery & Commitments ,Investment Allocations - T,Jellyfish,%,higher_better,5.0,15.0,10.0,%,0.04,VALID,0.17,VALID,0.04,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.01,VALID,,NA
+Compensation Management,Delivery & Commitments ,Investment Allocations - M,Jellyfish,%,higher_better,30.0,40.0,35.0,%,0.57,VALID,0.16,VALID,0.19,VALID,0.31,VALID,0.13,VALID,0.06,VALID,0.06,VALID,0.19,VALID,,NA
+Compensation Management,Delivery & Commitments ,Investment Allocations - 0,Jellyfish,%,higher_better,,,,,0.0,VALID,0.0,VALID,0.0,VALID,0.0,VALID,0.16,VALID,0.0,VALID,0.0,VALID,0.12,VALID,,NA
+Compensation Management,Delivery & Commitments ,Deployment Frequency,TBD,count,context_dependent,1.0,2.0,1.5,week,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Compensation Management,Delivery & Commitments ,Lead Time for Changes,TBD,time,lower_better,1.0,3.0,2.0,days,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Compensation Management,Sentiment & Team Health,Developer Satisfaction,Jellyfish,count,context_dependent,70.0,77.0,73.5,,77.0,VALID,77.0,VALID,77.0,VALID,74.0,VALID,74.0,VALID,77.0,VALID,77.0,VALID,77.0,VALID,,NA
+Compensation Management,Sentiment & Team Health,Quality of Meetings,Jellyfish,count,context_dependent,,,,,69.0,VALID,69.0,VALID,69.0,VALID,55.0,VALID,55.0,VALID,54.0,VALID,54.0,VALID,54.0,VALID,,NA
+Compensation Management,Sentiment & Team Health,Perceived Productivity ,Jellyfish,count,context_dependent,65.0,75.0,70.0,,75.0,VALID,75.0,VALID,75.0,VALID,70.0,VALID,70.0,VALID,56.0,VALID,56.0,VALID,56.0,VALID,,NA
+Compensation Management,Sentiment & Team Health,Ease of Delivery ,Jellyfish,count,context_dependent,70.0,80.0,75.0,,62.0,VALID,62.0,VALID,62.0,VALID,68.0,VALID,68.0,VALID,66.0,VALID,66.0,VALID,66.0,VALID,,NA
+Compensation Management,Sentiment & Team Health,On-all Load (hrs/month) ,TBD,count,context_dependent,20.0,30.0,25.0,hours,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Compensation Management,Sentiment & Team Health,Regrettable Attrition,TBD,%,lower_better,,,,,0.0,VALID,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,NA
+Compensation Management,Quality ,PR Review Velocity - X / Wk ,Jellyfish,count,context_dependent,,,,,16.0,VALID,11.0,VALID,11.0,VALID,10.0,VALID,11.0,VALID,14.0,VALID,19.0,VALID,13.0,VALID,,NA
+Compensation Management,Quality ,PR Review Velocity - X / FTE Wk,Jellyfish,count,context_dependent,,,,,2.31,VALID,1.72,VALID,2.5,VALID,1.49,VALID,1.31,VALID,1.69,VALID,2.81,VALID,1.37,VALID,,NA
+Compensation Management,Quality ,PRS Merged - X/Wk,Jellyfish,count,higher_better,,,,,16.0,VALID,10.0,VALID,11.0,VALID,10.0,VALID,10.0,VALID,14.0,VALID,17.0,VALID,12.0,VALID,,NA
+Compensation Management,Quality ,PRS Merged -  X/FTE Wk,Jellyfish,count,higher_better,,,,,2.41,VALID,1.61,VALID,2.17,VALID,1.54,VALID,1.25,VALID,1.72,VALID,2.7,VALID,1.41,VALID,,NA
+Compensation Management,Quality ,PR Comments - X/Wk,Jellyfish,count,context_dependent,,,,,15.0,VALID,23.0,VALID,13.5,VALID,23.0,VALID,15.0,VALID,48.5,VALID,42.0,VALID,31.0,VALID,,NA
+Compensation Management,Quality ,PR Comments - X/FTE Wk,Jellyfish,count,context_dependent,,,,,2.35,VALID,3.11,VALID,3.75,VALID,3.65,VALID,4.0,VALID,5.45,VALID,6.07,VALID,4.01,VALID,,NA
+Compensation Management,,Action Plan 1,,count,context_dependent,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,80.0,NARRATIVE,,NA
+Compensation Management,,Action Plan 2,,count,context_dependent,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,,UNCERTAIN,,NA
+Compensation Management,,Action Plan 3,,count,context_dependent,,,,,,NA,,NA,,NA,,NA,,NA,,NA,,NA,75.0,NARRATIVE,,NA
+Compensation Management,,Notes/Comments/Actions,,count,context_dependent,,,,,,NA,1.0,NARRATIVE,,NA,,NA,,NA,,NA,,NA,,NA,,NA

@@ -1,0 +1,182 @@
+metric,team,metric_group,direction,values,slope,pct_change,trend,r_squared,months_data
+Sprint Predictability ,Recognition & Rewards,Productivity and Capacity,higher_better,"[50.0, 69.4, 40.1, 69.4, 35.0, 61.3, 59.4, 75.3, 70.4]",2.163333333333333,40.80000000000001,Improving,0.17210399218751052,9
+Cycle Time (Days) ,Recognition & Rewards,Productivity and Capacity,lower_better,"[7.42, 6.98, 7.0, 4.87, 5.43, 7.14, 6.1, 4.77, 6.57]",-0.15933333333333338,-11.455525606469,Improving,0.1869356765336345,9
+Unplanned work %,Recognition & Rewards,Productivity and Capacity,lower_better,"[5.0, 11.0, 15.0, 13.0, 16.0, 17.0, 31.0, 25.0, 32.0]",3.1,540.0,Declining,0.8605970149253729,9
+Wasted Effort %,Recognition & Rewards,Productivity and Capacity,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",0.0,0.0,Stable,,9
+Severity 1 Incidents,Recognition & Rewards,Reliability ,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",0.0,0.0,Stable,,9
+Severity 2 Incidents,Recognition & Rewards,Reliability ,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",0.0,0.0,Stable,,9
+Severity 3 Incidents,Recognition & Rewards,Reliability ,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",0.0,0.0,Stable,,9
+Dispositioned PDR Bugs - Created,Recognition & Rewards,Quality,lower_better,"[0.0, 4.0, 0.0, 4.0, 6.0, 1.0, 0.0, 0.0, 3.0]",-0.05,0.0,Stable,0.003571428571428572,9
+Dispositioned PDR Bugs - Resolved,Recognition & Rewards,Quality,higher_better,"[2.0, 3.0, 3.0, 2.0, 2.0, 0.0, 0.0, 0.0, 1.0]",-0.35,-50.0,Declining,0.6013636363636363,9
+Commitment %,Recognition & Rewards,Delivery & Commitments ,higher_better,"[0.0, 50.0, 100.0, 20.0, 40.0, 100.0, 0.0, 25.0, 100.0]",3.4166666666666665,0.0,Improving,0.049674940898345156,9
+Investment Allocations - R,Recognition & Rewards,Delivery & Commitments ,higher_better,"[88.0, 51.0, 63.0, 67.0, 52.0, 64.0, 28.0, 26.0, 35.0]",-6.000000000000001,-60.22727272727273,Declining,0.6498194945848376,9
+Investment Allocations - T,Recognition & Rewards,Delivery & Commitments ,higher_better,"[0.0, 15.0, 8.0, 1.0, 16.0, 4.0, 4.0, 5.0, 3.0]",-0.3833333333333334,0.0,Declining,0.033452782462057344,9
+Investment Allocations - M,Recognition & Rewards,Delivery & Commitments ,higher_better,"[12.0, 34.0, 29.0, 32.0, 32.0, 32.0, 68.0, 69.0, 62.0]",6.383333333333333,416.6666666666667,Improving,0.7567009422931423,9
+Investment Allocations - 0,Recognition & Rewards,Delivery & Commitments ,higher_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",0.0,0.0,Stable,,9
+Regrettable Attrition,Recognition & Rewards,Sentiment & Team Health,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",0.0,0.0,Stable,,9
+PR Review Velocity - X / Wk ,Recognition & Rewards,Quality ,context_dependent,"[17.0, 12.0, 16.0, 13.0, 12.0, 16.0, 7.0, 6.0, 13.0]",-0.8166666666666667,-23.52941176470588,Improving,0.33848684210526303,9
+PR Review Velocity - X / FTE Wk,Recognition & Rewards,Quality ,context_dependent,"[2.95, 1.96, 2.2, 2.68, 1.76, 2.12, 1.06, 1.28, 2.19]",-0.13200000000000003,-25.762711864406786,Improving,0.3589918120979497,9
+PRS Merged - X/Wk,Recognition & Rewards,Quality ,higher_better,"[18.0, 12.0, 16.0, 13.5, 12.0, 16.0, 6.0, 6.0, 12.0]",-0.9916666666666667,-33.33333333333333,Declining,0.41879929022082013,9
+PRS Merged -  X/FTE Wk,Recognition & Rewards,Quality ,higher_better,"[2.95, 1.93, 2.27, 2.74, 1.78, 2.15, 1.06, 1.33, 1.74]",-0.16083333333333338,-41.016949152542374,Declining,0.5175849278928101,9
+PR Comments - X/Wk,Recognition & Rewards,Quality ,context_dependent,"[31.0, 55.0, 47.0, 71.5, 79.0, 53.5, 23.0, 40.0, 77.0]",1.2166666666666668,148.38709677419354,Declining,0.027864052287581702,9
+PR Comments - X/FTE Wk,Recognition & Rewards,Quality ,context_dependent,"[7.34, 11.97, 7.17, 15.71, 8.69, 8.6, 2.89, 6.77, 13.15]",-0.13383333333333336,79.15531335149865,Improving,0.008989526121402637,9
+Sprint Predictability ,Onboarding,Productivity and Capacity,higher_better,"[90.0, 75.4, 73.6, 95.3, 71.0, 67.3, 81.2, 89.7, 80.0]",-0.16499999999999987,-11.11111111111111,Declining,0.0022295200803151907,9
+Cycle Time (Days) ,Onboarding,Productivity and Capacity,lower_better,"[3.9, 6.48, 3.96, 5.26, 8.0, 4.5, 4.03, 6.04, 7.73]",0.22300000000000003,98.20512820512822,Declining,0.1447909848219341,9
+Unplanned work %,Onboarding,Productivity and Capacity,lower_better,"[6.0, 7.0, 8.0, 9.0, 20.0, 9.0, 7.0, 3.0, 22.0]",0.8333333333333334,266.66666666666663,Declining,0.12516688918558078,9
+Wasted Effort %,Onboarding,Productivity and Capacity,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",0.0,0.0,Stable,,9
+Severity 1 Incidents,Onboarding,Reliability ,lower_better,"[0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0]",-2.7755575615628915e-18,0.0,Stable,5.200010849845539e-34,9
+Severity 2 Incidents,Onboarding,Reliability ,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",0.0,0.0,Stable,,9
+Severity 3 Incidents,Onboarding,Reliability ,lower_better,"[0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",-0.05,0.0,Stable,0.16875000000000012,9
+Dispositioned PDR Bugs - Created,Onboarding,Quality,lower_better,"[23.0, 15.0, 11.0, 9.0, 4.0, 3.0, 4.0, 9.0, 1.0]",-2.0999999999999996,-95.65217391304348,Improving,0.6862824207492793,9
+Dispositioned PDR Bugs - Resolved,Onboarding,Quality,higher_better,"[13.0, 7.0, 9.0, 10.0, 6.0, 7.0, 10.0, 6.0, nan]",-0.5238095238095238,-53.84615384615385,Declining,0.2743764172335601,8
+Commitment %,Onboarding,Delivery & Commitments ,higher_better,"[0.0, 16.7, 85.7, 40.0, 60.0, 100.0, 0.0, 50.0, 100.0]",6.4750000000000005,0.0,Improving,0.19991969157751016,9
+Investment Allocations - R,Onboarding,Delivery & Commitments ,higher_better,"[85.0, 76.0, 88.0, 67.0, 63.0, 56.0, 71.0, 78.0, 67.0]",-1.85,-21.176470588235293,Declining,0.23767361111111107,9
+Investment Allocations - T,Onboarding,Delivery & Commitments ,higher_better,"[9.0, 9.0, 10.0, 22.0, 17.0, 19.0, 14.0, 4.0, 18.0]",0.43333333333333335,100.0,Improving,0.04049520766773164,9
+Investment Allocations - M,Onboarding,Delivery & Commitments ,higher_better,"[6.0, 15.0, 2.0, 11.0, 20.0, 25.0, 15.0, 18.0, 15.0]",1.4166666666666667,150.0,Improving,0.3064903846153847,9
+Investment Allocations - 0,Onboarding,Delivery & Commitments ,higher_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",0.0,0.0,Stable,,9
+Regrettable Attrition,Onboarding,Sentiment & Team Health,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",0.0,0.0,Stable,,9
+PR Review Velocity - X / Wk ,Onboarding,Quality ,context_dependent,"[35.0, 23.0, 34.0, 33.0, 22.0, 26.0, 29.0, 43.0, 51.0]",1.7833333333333332,45.714285714285715,Declining,0.26691793596518487,9
+PR Review Velocity - X / FTE Wk,Onboarding,Quality ,context_dependent,"[3.73, 2.96, 3.64, 3.85, 2.69, 2.8, 2.73, 4.47, 5.26]",0.12966666666666662,41.018766756032164,Declining,0.16218756698821,9
+PRS Merged - X/Wk,Onboarding,Quality ,higher_better,"[49.0, 24.0, 37.5, 35.0, 31.0, 26.0, 32.0, 43.0, 50.0]",0.6833333333333333,2.0408163265306123,Improving,0.03997305009511731,9
+PRS Merged -  X/FTE Wk,Onboarding,Quality ,higher_better,"[4.72, 2.76, 3.67, 3.99, 2.64, 2.97, 2.93, 4.1, 5.06]",0.04799999999999999,7.203389830508472,Stable,0.02213792072654287,9
+PR Comments - X/Wk,Onboarding,Quality ,context_dependent,"[2.0, 1.0, 5.0, 5.0, 6.0, 10.0, 4.0, 12.0, 9.0]",1.0666666666666667,350.0,Declining,0.6320987654320985,9
+PR Comments - X/FTE Wk,Onboarding,Quality ,context_dependent,"[0.15, 0.07, 0.48, 0.41, 0.42, 0.98, 0.5, 0.9, 0.82]",0.09633333333333333,446.6666666666667,Stable,0.6880763421666893,9
+Sprint Predictability ,Recruiting Modernization,Productivity and Capacity,higher_better,"[nan, 44.6, 34.7, 15.5, 52.7, 96.3, 78.9, 100.0, nan]",11.978571428571428,124.2152466367713,Improving,0.6496105333620987,7
+Cycle Time (Days) ,Recruiting Modernization,Productivity and Capacity,lower_better,"[nan, 3.08, 26.31, 4.0, 6.74, 4.45, 4.37, 2.31, nan]",-1.6335714285714285,-25.0,Improving,0.17296356222393094,7
+Unplanned work %,Recruiting Modernization,Productivity and Capacity,lower_better,"[nan, 54.0, 25.0, 13.0, 2.0, 9.0, 38.0, 36.0, nan]",-1.1428571428571421,-33.33333333333333,Improving,0.017758046614872337,7
+Wasted Effort %,Recruiting Modernization,Productivity and Capacity,lower_better,"[nan, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0,Stable,,7
+Severity 1 Incidents,Recruiting Modernization,Reliability ,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0,Stable,,8
+Severity 2 Incidents,Recruiting Modernization,Reliability ,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0,Stable,,8
+Severity 3 Incidents,Recruiting Modernization,Reliability ,lower_better,"[0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, nan]",0.023809523809523808,0.0,Stable,0.01587301587301587,8
+Dispositioned PDR Bugs - Created,Recruiting Modernization,Quality,lower_better,"[18.0, 3.0, 10.0, 3.0, 3.0, 10.0, 4.0, 12.0, nan]",-0.44047619047619047,-33.33333333333333,Improving,0.03792348818526828,8
+Dispositioned PDR Bugs - Resolved,Recruiting Modernization,Quality,higher_better,"[14.0, 4.0, 4.0, 5.0, 3.0, 6.0, 9.0, 7.0, nan]",-0.23809523809523808,-50.0,Declining,0.026455026455026454,8
+Commitment %,Recruiting Modernization,Delivery & Commitments ,higher_better,"[0.0, 16.7, 66.7, 0.0, 0.0, 0.0, 0.0, 33.0, nan]",-0.6261904761904763,0.0,Declining,0.003994220336782838,8
+Investment Allocations - R,Recruiting Modernization,Delivery & Commitments ,higher_better,"[37.0, 44.0, 56.0, 86.0, 96.0, 35.0, 0.0, 2.0, nan]",-6.166666666666667,-94.5945945945946,Declining,0.18923775671406004,8
+Investment Allocations - T,Recruiting Modernization,Delivery & Commitments ,higher_better,"[7.0, 2.0, 24.0, 14.0, 0.0, 40.0, 50.0, 58.0, nan]",7.511904761904762,728.5714285714286,Improving,0.6702742467934959,8
+Investment Allocations - M,Recruiting Modernization,Delivery & Commitments ,higher_better,"[56.0, 48.0, 20.0, 0.0, 4.0, 25.0, 50.0, 40.0, nan]",-0.9880952380952381,-28.57142857142857,Declining,0.012814860699543696,8
+Investment Allocations - 0,Recruiting Modernization,Delivery & Commitments ,higher_better,"[0.0, 6.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",-0.35714285714285715,0.0,Declining,0.17006802721088432,8
+Deployment Frequency,Recruiting Modernization,Delivery & Commitments ,context_dependent,"[nan, nan, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, nan]",0.0,0.0,Stable,,6
+Regrettable Attrition,Recruiting Modernization,Sentiment & Team Health,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0,Stable,,8
+PR Review Velocity - X / Wk ,Recruiting Modernization,Quality ,context_dependent,"[nan, 15.0, 12.5, 7.0, 6.0, 11.0, 6.0, 8.0, nan]",-1.0714285714285714,-46.666666666666664,Improving,0.43227665706051877,7
+PR Review Velocity - X / FTE Wk,Recruiting Modernization,Quality ,context_dependent,"[nan, 2.33, 1.98, 1.6, 1.27, 1.73, 0.98, 3.19, nan]",0.025357142857142845,36.909871244635184,Stable,0.00560739138946731,7
+PRS Merged - X/Wk,Recruiting Modernization,Quality ,higher_better,"[nan, 14.0, 13.0, 6.0, 6.0, 12.5, 12.0, 11.0, nan]",-0.1607142857142857,-21.428571428571427,Declining,0.0110655737704918,7
+PRS Merged -  X/FTE Wk,Recruiting Modernization,Quality ,higher_better,"[nan, 2.24, 2.0, 1.49, 1.39, 2.18, 1.14, 3.67, nan]",0.11642857142857138,63.8392857142857,Improving,0.08932918218863044,7
+PR Comments - X/Wk,Recruiting Modernization,Quality ,context_dependent,"[nan, 14.0, 13.0, 22.0, 12.0, 8.5, 5.0, 5.0, nan]",-2.017857142857143,-64.28571428571429,Improving,0.5368735284224687,7
+PR Comments - X/FTE Wk,Recruiting Modernization,Quality ,context_dependent,"[nan, 1.95, 2.3, 5.48, 1.97, 1.62, 1.12, 1.42, nan]",-0.2789285714285714,-27.179487179487182,Improving,0.1680270381054594,7
+Sprint Predictability ,Recruiting Innovation,Productivity and Capacity,higher_better,"[nan, 93.2, 48.5, 53.0, 80.0, 70.6, 86.0, 83.8, nan]",2.299999999999999,-10.08583690987125,Improving,0.08481988740201658,7
+Cycle Time (Days) ,Recruiting Innovation,Productivity and Capacity,lower_better,"[0.04, 10.98, 6.99, 3.91, 4.03, 6.72, 4.29, 3.95, nan]",-0.08059523809523816,9775.0,Stable,0.003847199637897595,8
+Unplanned work %,Recruiting Innovation,Productivity and Capacity,lower_better,"[69.0, 60.0, 57.0, 23.0, 46.0, 4.0, 1.0, 0.8, nan]",-10.814285714285713,-98.84057971014492,Improving,0.8511909713144948,8
+Wasted Effort %,Recruiting Innovation,Productivity and Capacity,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0,Stable,,8
+Severity 1 Incidents,Recruiting Innovation,Reliability ,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0,Stable,,8
+Severity 2 Incidents,Recruiting Innovation,Reliability ,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0,Stable,,8
+Severity 3 Incidents,Recruiting Innovation,Reliability ,lower_better,"[0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, nan]",0.023809523809523808,0.0,Stable,0.01587301587301587,8
+Dispositioned PDR Bugs - Created,Recruiting Innovation,Quality,lower_better,"[18.0, 3.0, 10.0, 2.0, 2.0, 0.0, 0.0, 0.0, nan]",-2.0357142857142856,-100.0,Improving,0.6046150983189629,8
+Dispositioned PDR Bugs - Resolved,Recruiting Innovation,Quality,higher_better,"[14.0, 4.0, 4.0, 4.0, 2.0, 0.0, 0.0, 0.0, nan]",-1.5714285714285714,-100.0,Declining,0.6914285714285714,8
+Commitment %,Recruiting Innovation,Delivery & Commitments ,higher_better,"[0.0, 16.7, 66.7, 0.0, 66.7, 80.0, 0.0, 33.0, nan]",3.0249999999999995,0.0,Improving,0.04796302868396932,8
+Investment Allocations - R,Recruiting Innovation,Delivery & Commitments ,higher_better,"[49.0, 56.0, 40.0, 75.0, 63.0, 90.0, 100.0, 95.0, nan]",8.095238095238095,93.87755102040816,Improving,0.7801533311737393,8
+Investment Allocations - T,Recruiting Innovation,Delivery & Commitments ,higher_better,"[0.0, 2.0, 6.0, 6.0, 5.0, 4.0, 0.0, 0.0, nan]",-0.20238095238095238,0.0,Declining,0.03381303381303381,8
+Investment Allocations - M,Recruiting Innovation,Delivery & Commitments ,higher_better,"[51.0, 42.0, 53.0, 19.0, 32.0, 6.0, 0.0, 5.0, nan]",-7.857142857142857,-90.19607843137256,Declining,0.8072407045009785,8
+Investment Allocations - 0,Recruiting Innovation,Delivery & Commitments ,higher_better,"[0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",-0.03571428571428571,0.0,Stable,0.061224489795918366,8
+Deployment Frequency,Recruiting Innovation,Delivery & Commitments ,context_dependent,"[nan, nan, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, nan]",0.0,0.0,Stable,,6
+Regrettable Attrition,Recruiting Innovation,Sentiment & Team Health,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0,Stable,,8
+PR Review Velocity - X / Wk ,Recruiting Innovation,Quality ,context_dependent,"[0.0, 4.0, 7.5, 14.0, 6.0, 9.5, 20.0, 24.0, nan]",2.9285714285714284,0.0,Declining,0.7707179154090095,8
+PR Review Velocity - X / FTE Wk,Recruiting Innovation,Quality ,context_dependent,"[0.0, 0.85, 1.09, 2.59, 0.85, 1.78, 3.19, 4.77, nan]",0.5407142857142857,0.0,Declining,0.7282509238972965,8
+PRS Merged - X/Wk,Recruiting Innovation,Quality ,higher_better,"[1.0, 7.0, 10.0, 19.0, 12.0, 9.5, 19.0, 23.0, nan]",2.4464285714285716,2200.0,Improving,0.6744241756399046,8
+PRS Merged -  X/FTE Wk,Recruiting Innovation,Quality ,higher_better,"[0.3, 1.89, 1.58, 3.63, 1.2, 1.8, 3.34, 4.64, nan]",0.4269047619047618,1446.6666666666667,Improving,0.5288910648747026,8
+PR Comments - X/Wk,Recruiting Innovation,Quality ,context_dependent,"[0.0, 0.0, 5.0, 5.0, 4.0, 16.5, 19.0, 27.0, nan]",3.7797619047619047,0.0,Declining,0.8612330332446952,8
+PR Comments - X/FTE Wk,Recruiting Innovation,Quality ,context_dependent,"[0.0, 0.0, 0.98, 1.09, 0.44, 4.14, 2.99, 3.44, nan]",0.5697619047619048,0.0,Declining,0.7225591629368074,8
+Sprint Predictability ,Learning Management,Productivity and Capacity,higher_better,"[0.618, 0.56, 0.638, 0.807, 0.687, 0.674, 0.72, 0.653, 0.712]",0.01143333333333333,15.210355987055014,Stable,0.19964533591270842,9
+Cycle Time (Days) ,Learning Management,Productivity and Capacity,lower_better,"[5.14, 5.71, 5.98, 5.12, 5.31, 4.51, 6.96, 4.215, 4.56]",-0.0909166666666667,-11.284046692607005,Stable,0.08567265225978457,9
+Unplanned work %,Learning Management,Productivity and Capacity,lower_better,"[0.24, 0.22, 0.34, 0.64, 0.43, 0.3, 0.03, 0.015, 0.0]",-0.04225,-100.0,Stable,0.2957940806431815,9
+Wasted Effort %,Learning Management,Productivity and Capacity,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",0.0,0.0,Stable,,9
+Severity 1 Incidents,Learning Management,Reliability ,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",0.0,0.0,Stable,,9
+Severity 2 Incidents,Learning Management,Reliability ,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",0.0,0.0,Stable,,9
+Severity 3 Incidents,Learning Management,Reliability ,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",0.0,0.0,Stable,,9
+Dispositioned PDR Bugs - Created,Learning Management,Quality,lower_better,"[2.0, 4.0, 3.0, 1.0, 2.0, 3.0, 3.0, 3.0, 5.0]",0.18333333333333332,150.0,Declining,0.18520408163265303,9
+Dispositioned PDR Bugs - Resolved,Learning Management,Quality,higher_better,"[1.0, 4.0, 3.0, 0.0, 3.0, 3.0, 3.0, 2.0, 2.0]",0.016666666666666666,100.0,Stable,0.001388888888888889,9
+Commitment %,Learning Management,Delivery & Commitments ,higher_better,"[100.0, 100.0, 100.0, 100.0, 50.0, 100.0, 0.0, 0.0, 1.0]",-14.933333333333334,-99.0,Declining,0.7129466928742273,9
+Investment Allocations - R,Learning Management,Delivery & Commitments ,higher_better,"[75.0, 79.0, 77.0, 80.0, 76.0, 62.0, 46.0, 61.0, 56.0]",-3.5,-25.333333333333336,Declining,0.6271331058020478,9
+Investment Allocations - T,Learning Management,Delivery & Commitments ,higher_better,"[23.0, 17.0, 21.0, 18.0, 17.0, 38.0, 50.0, 39.0, 44.0]",3.8000000000000003,91.30434782608695,Improving,0.6408284023668639,9
+Investment Allocations - M,Learning Management,Delivery & Commitments ,higher_better,"[2.0, 4.0, 2.0, 2.0, 7.0, 0.0, 4.0, 0.0, 0.0]",-0.30000000000000004,-100.0,Declining,0.12272727272727277,9
+Investment Allocations - 0,Learning Management,Delivery & Commitments ,higher_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",0.0,0.0,Stable,,9
+Developer Satisfaction,Learning Management,Sentiment & Team Health,context_dependent,"[85.0, 85.0, 79.0, 79.0, 79.0, 67.0, 67.0, 67.0, nan]",-3.0,-21.176470588235293,Improving,0.875,8
+Quality of Meetings,Learning Management,Sentiment & Team Health,context_dependent,"[71.0, 71.0, 62.0, 62.0, 62.0, 50.0, 50.0, 50.0, nan]",-3.4285714285714284,-29.577464788732392,Improving,0.89198606271777,8
+Perceived Productivity ,Learning Management,Sentiment & Team Health,context_dependent,"[79.0, 79.0, 75.0, 75.0, 75.0, 67.0, 67.0, 67.0, nan]",-2.0,-15.18987341772152,Improving,0.875,8
+Ease of Delivery ,Learning Management,Sentiment & Team Health,context_dependent,"[83.0, 83.0, 88.0, 88.0, 88.0, 92.0, 92.0, 92.0, nan]",1.4285714285714286,10.843373493975903,Declining,0.8791208791208791,8
+Regrettable Attrition,Learning Management,Sentiment & Team Health,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",0.0,0.0,Stable,,9
+PR Review Velocity - X / Wk ,Learning Management,Quality ,context_dependent,"[35.0, 31.0, 36.0, 26.0, 17.0, 20.0, 21.0, 37.0, 23.0]",-1.0999999999999999,-34.285714285714285,Improving,0.1571428571428571,9
+PR Review Velocity - X / FTE Wk,Learning Management,Quality ,context_dependent,"[3.5, 3.1, 3.6, 2.6, 1.7, 2.0, 2.1, 3.7, 2.3]",-0.11,-34.28571428571429,Improving,0.1571428571428571,9
+PRS Merged - X/Wk,Learning Management,Quality ,higher_better,"[34.0, 33.0, 39.0, 30.0, 22.0, 21.0, 23.0, 43.0, 25.0]",-0.7833333333333334,-26.47058823529412,Declining,0.07452766531713902,9
+PRS Merged -  X/FTE Wk,Learning Management,Quality ,higher_better,"[3.3, 3.3, 3.9, 3.0, 2.2, 2.1, 2.3, 4.3, 2.5]",-0.07166666666666667,-24.24242424242424,Stable,0.0632930168872661,9
+PR Comments - X/Wk,Learning Management,Quality ,context_dependent,"[4.0, 7.0, 4.0, 4.0, 5.0, 12.0, 10.0, 17.0, 21.0]",1.9666666666666668,425.0,Declining,0.7438034188034188,9
+PR Comments - X/FTE Wk,Learning Management,Quality ,context_dependent,"[0.4, 0.7, 0.4, 0.4, 0.5, 1.2, 1.0, 1.7, 2.1]",0.19666666666666668,425.0,Declining,0.7438034188034189,9
+Sprint Predictability ,Employee Voice,Productivity and Capacity,higher_better,"[0.372, 0.48, 0.464, 0.781, 0.676, 0.403, 0.785, 0.784, nan]",0.04905952380952382,110.75268817204302,Stable,0.4396452981798123,8
+Cycle Time (Days) ,Employee Voice,Productivity and Capacity,lower_better,"[12.55, 11.81, 7.13, 6.91, 7.78, 7.76, 5.21, 9.39, nan]",-0.6233333333333333,-25.1792828685259,Improving,0.36746465928158517,8
+Unplanned work %,Employee Voice,Productivity and Capacity,lower_better,"[0.48, 0.43, 0.28, 0.16, 0.45, 0.41, 0.35, 0.08, nan]",-0.030000000000000006,-83.33333333333333,Stable,0.2560975609756098,8
+Wasted Effort %,Employee Voice,Productivity and Capacity,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0,Stable,,8
+Severity 1 Incidents,Employee Voice,Reliability ,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0,Stable,,8
+Severity 2 Incidents,Employee Voice,Reliability ,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0,Stable,,8
+Severity 3 Incidents,Employee Voice,Reliability ,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0,Stable,,8
+MTTR (Sev 1),Employee Voice,Reliability ,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0,Stable,,8
+Dispositioned PDR Bugs - Created,Employee Voice,Quality,lower_better,"[4.0, 10.0, 8.0, 11.0, 4.0, 0.0, 10.0, 1.0, nan]",-0.6190476190476191,-75.0,Improving,0.12380952380952379,8
+Dispositioned PDR Bugs - Resolved,Employee Voice,Quality,higher_better,"[8.0, 10.0, 8.0, 1.0, 1.0, 5.0, 14.0, 4.0, nan]",-0.20238095238095238,-50.0,Declining,0.012125026221942522,8
+Commitment %,Employee Voice,Delivery & Commitments ,higher_better,"[0.0, 1.0, 1.0, 0.0, 0.5, 1.0, 0.0, 1.0, nan]",0.02976190476190476,0.0,Stable,0.021645021645021644,8
+Investment Allocations - R,Employee Voice,Delivery & Commitments ,higher_better,"[0.25, 0.06, 0.13, 0.68, 0.78, 0.45, 0.3, 0.67, nan]",0.06190476190476191,168.00000000000003,Stable,0.3110792055515674,8
+Investment Allocations - T,Employee Voice,Delivery & Commitments ,higher_better,"[0.41, 0.6, 0.59, 0.27, 0.16, 0.33, 0.24, 0.16, nan]",-0.05285714285714285,-60.97560975609756,Stable,0.5467980295566504,8
+Investment Allocations - M,Employee Voice,Delivery & Commitments ,higher_better,"[0.34, 0.34, 0.28, 0.05, 0.06, 0.22, 0.46, 0.17, nan]",-0.00904761904761905,-50.0,Stable,0.023908868136962726,8
+Investment Allocations - 0,Employee Voice,Delivery & Commitments ,higher_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0,Stable,,8
+Developer Satisfaction,Employee Voice,Sentiment & Team Health,context_dependent,"[86.0, 86.0, 86.0, 76.0, 76.0, 76.0, 76.0, 76.0, nan]",-1.7857142857142858,-11.627906976744185,Improving,0.7142857142857143,8
+Quality of Meetings,Employee Voice,Sentiment & Team Health,context_dependent,"[72.0, 72.0, 72.0, 70.0, 70.0, 70.0, 70.0, 70.0, nan]",-0.35714285714285715,-2.7777777777777777,Improving,0.7142857142857143,8
+Perceived Productivity ,Employee Voice,Sentiment & Team Health,context_dependent,"[72.0, 72.0, 72.0, 75.0, 75.0, 75.0, 75.0, 75.0, nan]",0.5357142857142857,4.166666666666666,Declining,0.7142857142857143,8
+Ease of Delivery ,Employee Voice,Sentiment & Team Health,context_dependent,"[62.0, 62.0, 62.0, 57.0, 57.0, 57.0, 57.0, 57.0, nan]",-0.8928571428571429,-8.064516129032258,Improving,0.7142857142857143,8
+Regrettable Attrition,Employee Voice,Sentiment & Team Health,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0,Stable,,8
+PR Review Velocity - X / Wk ,Employee Voice,Quality ,context_dependent,"[16.0, 16.0, 18.5, 22.0, 20.0, 10.5, 25.0, 20.0, nan]",0.5595238095238095,25.0,Declining,0.09703918467756104,8
+PR Review Velocity - X / FTE Wk,Employee Voice,Quality ,context_dependent,"[2.07, 2.94, 11.09, 2.43, 1.97, 5.75, 2.91, 2.13, nan]",-0.19297619047619044,2.898550724637684,Improving,0.022541319839566563,8
+PRS Merged - X/Wk,Employee Voice,Quality ,higher_better,"[18.0, 17.0, 17.5, 24.5, 21.0, 11.5, 24.0, 19.0, nan]",0.24404761904761904,5.555555555555555,Improving,0.020383911140213658,8
+PRS Merged -  X/FTE Wk,Employee Voice,Quality ,higher_better,"[2.18, 2.89, 11.31, 2.7, 2.24, 5.75, 3.0, 2.0, nan]",-0.21250000000000002,-8.256880733944962,Declining,0.026776226981224612,8
+PR Comments - X/Wk,Employee Voice,Quality ,context_dependent,"[18.0, 9.0, 9.0, 21.5, 21.0, 6.5, 18.0, 15.0, nan]",0.19047619047619047,-16.666666666666664,Declining,0.006349206349206349,8
+PR Comments - X/FTE Wk,Employee Voice,Quality ,context_dependent,"[3.74, 2.5, 10.76, 2.05, 1.81, 3.37, 2.29, 2.63, nan]",-0.3717857142857143,-29.679144385026746,Improving,0.09548978429962517,8
+Sprint Predictability ,Performance Management,Productivity and Capacity,higher_better,"[52.6, 72.3, 61.3, 61.2, 58.7, 72.1, 94.0, 97.5, nan]",5.389285714285713,85.36121673003801,Improving,0.6374149548782063,8
+Cycle Time (Days) ,Performance Management,Productivity and Capacity,lower_better,"[4.58, 3.74, 4.88, 1.08, nan, 7.22, 7.03, 4.99, nan]",0.3601712328767124,8.951965065502186,Declining,0.20908217499486026,7
+Unplanned work %,Performance Management,Productivity and Capacity,lower_better,"[19.0, 28.0, 30.0, 34.0, 49.0, 38.0, 13.0, 21.0, nan]",-0.2619047619047619,10.526315789473683,Improving,0.003104474548440066,8
+Wasted Effort %,Performance Management,Productivity and Capacity,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0,Stable,,8
+Severity 1 Incidents,Performance Management,Reliability ,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0,Stable,,8
+Severity 2 Incidents,Performance Management,Reliability ,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0,Stable,,8
+Severity 3 Incidents,Performance Management,Reliability ,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, nan]",0.08333333333333333,0.0,Stable,0.3333333333333333,8
+Dispositioned PDR Bugs - Created,Performance Management,Quality,lower_better,"[4.0, 3.0, 3.0, 8.0, 11.0, 10.0, 6.0, 16.0, nan]",1.4642857142857142,300.0,Declining,0.61733382298935,8
+Dispositioned PDR Bugs - Resolved,Performance Management,Quality,higher_better,"[8.0, 2.0, 7.0, 1.0, 4.0, 5.0, 3.0, 5.0, nan]",-0.2261904761904762,-37.5,Declining,0.05388864009553665,8
+Commitment %,Performance Management,Delivery & Commitments ,higher_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.0, nan]",3.5714285714285716,0.0,Improving,0.06122448979591835,8
+Investment Allocations - R,Performance Management,Delivery & Commitments ,higher_better,"[25.0, 59.0, 36.0, 26.0, 6.0, 27.0, 42.0, 39.0, nan]",-0.40476190476190477,56.00000000000001,Declining,0.004100686758612861,8
+Investment Allocations - T,Performance Management,Delivery & Commitments ,higher_better,"[2.0, 10.0, 4.0, 6.0, 3.0, 0.0, 3.0, 4.0, nan]",-0.42857142857142855,100.0,Declining,0.12442396313364058,8
+Investment Allocations - M,Performance Management,Delivery & Commitments ,higher_better,"[73.0, 31.0, 60.0, 67.0, 91.0, 73.0, 55.0, 57.0, nan]",0.8452380952380952,-21.91780821917808,Improving,0.014074911700241513,8
+Regrettable Attrition,Performance Management,Sentiment & Team Health,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0,Stable,,8
+PR Review Velocity - X / Wk ,Performance Management,Quality ,context_dependent,"[10.0, 11.0, 8.0, 9.0, 8.0, 6.0, 5.0, 13.0, nan]",-0.19047619047619047,30.0,Improving,0.03208020050125314,8
+PR Review Velocity - X / FTE Wk,Performance Management,Quality ,context_dependent,"[1.6, 1.85, 1.33, 1.77, 1.14, 1.1, 1.1, 3.43, nan]",0.09214285714285715,114.375,Stable,0.08508538705389099,8
+PRS Merged - X/Wk,Performance Management,Quality ,higher_better,"[11.0, 10.0, 4.5, 10.0, 9.0, 8.0, 5.0, 11.0, nan]",-0.18452380952380953,0.0,Declining,0.03127949744491098,8
+PRS Merged -  X/FTE Wk,Performance Management,Quality ,higher_better,"[2.15, 1.94, 0.79, 1.55, 1.4, 1.27, 0.83, 3.04, nan]",0.02345238095238096,41.39534883720931,Stable,0.005940766233167846,8
+PR Comments - X/Wk,Performance Management,Quality ,context_dependent,"[4.0, 2.0, 6.5, 4.0, 4.0, 3.0, 1.0, 11.0, nan]",0.39880952380952384,175.0,Declining,0.09864416463401234,8
+PR Comments - X/FTE Wk,Performance Management,Quality ,context_dependent,"[1.16, 0.82, 1.08, 0.78, 0.49, 0.88, 0.17, 2.28, nan]",0.04404761904761904,96.55172413793103,Stable,0.030179099397476154,8
+Sprint Predictability ,Compensation Management,Productivity and Capacity,higher_better,"[1.0, 0.845, 0.955, 0.882, 0.649, 0.747, 0.908, 0.753, nan]",-0.027035714285714284,-24.7,Stable,0.3136016505090803,8
+Cycle Time (Days) ,Compensation Management,Productivity and Capacity,lower_better,"[1.87, 2.5, 1.83, 1.81, 3.05, 2.81, 3.42, 2.89, nan]",0.18952380952380954,54.54545454545454,Declining,0.5556675164586913,8
+Unplanned work %,Compensation Management,Productivity and Capacity,lower_better,"[0.16, 0.22, 0.15, 0.04, 0.01, 0.003, 0.03, 0.05, nan]",-0.02608333333333333,-68.75,Stable,0.6123560039253189,8
+Wasted Effort %,Compensation Management,Productivity and Capacity,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0,Stable,,8
+Severity 1 Incidents,Compensation Management,Reliability ,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0,Stable,,8
+Severity 2 Incidents,Compensation Management,Reliability ,lower_better,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0,Stable,,8
+Severity 3 Incidents,Compensation Management,Reliability ,lower_better,"[0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, nan]",-0.011904761904761904,0.0,Stable,0.006802721088435374,8
+Dispositioned PDR Bugs - Created,Compensation Management,Quality,lower_better,"[7.0, 0.0, 2.0, 1.0, 1.0, 2.0, 4.0, 7.0, nan]",0.23809523809523808,0.0,Declining,0.045787545787545784,8
+Dispositioned PDR Bugs - Resolved,Compensation Management,Quality,higher_better,"[9.0, 1.0, 1.0, 4.0, 0.0, 3.0, 2.0, 6.0, nan]",-0.16666666666666666,-33.33333333333333,Declining,0.018372703412073487,8
+Commitment %,Compensation Management,Delivery & Commitments ,higher_better,"[0.0, 0.111, 1.0, 0.167, 0.33, 1.0, 0.222, 0.444, nan]",0.045547619047619045,0.0,Stable,0.08253963592711304,8
+Investment Allocations - R,Compensation Management,Delivery & Commitments ,higher_better,"[0.39, 0.67, 0.77, 0.69, 0.71, 0.94, 0.94, 0.68, nan]",0.04654761904761904,74.35897435897436,Stable,0.4268570870153983,8
+Investment Allocations - T,Compensation Management,Delivery & Commitments ,higher_better,"[0.04, 0.17, 0.04, 0.0, 0.0, 0.0, 0.0, 0.01, nan]",-0.01404761904761905,-75.0,Stable,0.3489724310776941,8
+Investment Allocations - M,Compensation Management,Delivery & Commitments ,higher_better,"[0.57, 0.16, 0.19, 0.31, 0.13, 0.06, 0.06, 0.19, nan]",-0.0444047619047619,-66.66666666666666,Stable,0.42624914599436875,8
+Investment Allocations - 0,Compensation Management,Delivery & Commitments ,higher_better,"[0.0, 0.0, 0.0, 0.0, 0.16, 0.0, 0.0, 0.12, nan]",0.011904761904761904,0.0,Stable,0.19709870703248192,8
+Developer Satisfaction,Compensation Management,Sentiment & Team Health,context_dependent,"[77.0, 77.0, 77.0, 74.0, 74.0, 77.0, 77.0, 77.0, nan]",0.0,0.0,Stable,0.0,8
+Quality of Meetings,Compensation Management,Sentiment & Team Health,context_dependent,"[69.0, 69.0, 69.0, 55.0, 55.0, 54.0, 54.0, 54.0, nan]",-2.6785714285714284,-21.73913043478261,Improving,0.7517038620873983,8
+Perceived Productivity ,Compensation Management,Sentiment & Team Health,context_dependent,"[75.0, 75.0, 75.0, 70.0, 70.0, 56.0, 56.0, 56.0, nan]",-3.392857142857143,-25.333333333333336,Improving,0.845433255269321,8
+Ease of Delivery ,Compensation Management,Sentiment & Team Health,context_dependent,"[62.0, 62.0, 62.0, 68.0, 68.0, 66.0, 66.0, 66.0, nan]",0.7142857142857143,6.451612903225806,Declining,0.4464285714285714,8
+PR Review Velocity - X / Wk ,Compensation Management,Quality ,context_dependent,"[16.0, 11.0, 11.0, 10.0, 11.0, 14.0, 19.0, 13.0, nan]",0.34523809523809523,-18.75,Declining,0.07485536270583,8
+PR Review Velocity - X / FTE Wk,Compensation Management,Quality ,context_dependent,"[2.31, 1.72, 2.5, 1.49, 1.31, 1.69, 2.81, 1.37, nan]",-0.04452380952380951,-40.692640692640694,Stable,0.037339458161953436,8
+PRS Merged - X/Wk,Compensation Management,Quality ,higher_better,"[16.0, 10.0, 11.0, 10.0, 10.0, 14.0, 17.0, 12.0, nan]",0.19047619047619047,-25.0,Improving,0.027210884353741496,8
+PRS Merged -  X/FTE Wk,Compensation Management,Quality ,higher_better,"[2.41, 1.61, 2.17, 1.54, 1.25, 1.72, 2.7, 1.41, nan]",-0.03797619047619049,-41.49377593360997,Stable,0.03251861829186262,8
+PR Comments - X/Wk,Compensation Management,Quality ,context_dependent,"[15.0, 23.0, 13.5, 23.0, 15.0, 48.5, 42.0, 31.0, nan]",3.619047619047619,106.66666666666667,Declining,0.4575072153822544,8
+PR Comments - X/FTE Wk,Compensation Management,Quality ,context_dependent,"[2.35, 3.11, 3.75, 3.65, 4.0, 5.45, 6.07, 4.01, nan]",0.37940476190476197,70.6382978723404,Declining,0.6004928821836703,8
